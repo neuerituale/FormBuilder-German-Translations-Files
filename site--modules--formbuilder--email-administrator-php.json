@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/FormBuilder\/email-administrator.php",
+    "textdomain": "site--modules--formbuilder--email-administrator-php",
+    "translations": {
+        "855a7e604dbce7648c7f323254502487": {
+            "text": "Gesendet von ProcessWire Form Builder"
+        }
+    }
+}

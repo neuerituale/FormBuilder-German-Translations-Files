@@ -1,0 +1,111 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderConfig.php",
+    "textdomain": "site--modules--formbuilder--formbuilderconfig-php",
+    "translations": {
+        "437c70ab871dbfe3c3388b98d19a9d91": {
+            "text": "Einstellungen der Dateien"
+        },
+        "265273758c9ae2a8580bb61c39b4796c": {
+            "text": "Diese Einstellungen werden f\u00fcr Formular\u00fcbermittlungen verwendet, die Datei-Uploads beinhalten."
+        },
+        "bdcb5b0ce78c61372f77c2f57347d20b": {
+            "text": "Einstellungen zum Schutz vor Spam"
+        },
+        "d68b47828b57345f626b1b8448eb3a2d": {
+            "text": "Formular- und Feldeinstellungen"
+        },
+        "5e531298aa77bb55d472183aac90f1ee": {
+            "text": "Erlaubte Eingabearten"
+        },
+        "e716aeacdc83bdf2cde5510be5336534": {
+            "text": "W\u00e4hle die Eingabefeldtypen aus, die f\u00fcr Felder in Form Builder zul\u00e4ssig sind."
+        },
+        "c28cad5066890a41d9bc168f8ce8b6ec": {
+            "text": "Nicht alle Eingabefeldtypen k\u00f6nnen mit FormBuilder verwendet werden."
+        },
+        "8f681c5f221e2a431ecbf6f8d72304da": {
+            "text": "Wenn Sie zus\u00e4tzliche Typen hinzuf\u00fcgen, sollten Sie diese gr\u00fcndlich in Ihren Formularen auf dem Frontend testen (w\u00e4hrend Sie nicht eingeloggt sind)."
+        },
+        "9043c26b9cd927fa9ad8b3796cc1ef63": {
+            "text": "Einstellungen zum Einbetten von Formularen"
+        },
+        "83660d5dd3b7696a91809c69990aa6ba": {
+            "text": "Erlaubte Einbettungsfelder"
+        },
+        "17e05d1efc6256ac1da168e2edda8882": {
+            "text": "\u00dcberpr\u00fcfen Sie alle Felder, in die Formulare mit der Easy-Embedding-Methode eingebettet werden d\u00fcrfen. Bei der einfachen Einbettung k\u00f6nnen Sie ein spezielles Einbettungs-Tag\" in eine eigene Zeile eingeben, in die das Formular automatisch eingef\u00fcgt wird, wenn die Seite aufgerufen wird. Wir empfehlen Ihnen dringend, die einfache Einbettung zu verwenden. Wenn Sie sie jedoch nicht verwenden m\u00f6chten, k\u00f6nnen Sie alle Optionen unmarkiert lassen."
+        },
+        "ee8086d28d1290151d0210cff225d790": {
+            "text": "Tipp: W\u00e4hle das Haupt-Textfeld f\u00fcr eine einfache Einbettung."
+        },
+        "5386484801d01d2ece73fbc5f605f739": {
+            "text": "E-Mail-Einstellungen"
+        },
+        "640449e75130c86ef12accb3cf6291ef": {
+            "text": "Diese Einstellungen werden f\u00fcr den Versand von Administrator- oder Autoresponder-E-Mails verwendet."
+        },
+        "f043582ad2de4649d177efa8147366b6": {
+            "text": "Standard-E-Mail-Adresse von"
+        },
+        "74944d06d110ed29c66a37503ef46d76": {
+            "text": "Wenn m\u00f6glich, geben Sie bitte eine E-Mail-Adresse ein, mit der dieser Server senden darf (gem\u00e4\u00df DNS-Einstellungen)."
+        },
+        "3dd6db50bd2af79ef0a18dd5a87ab531": {
+            "text": "Diese Einstellung kann f\u00fcr jedes Formular \u00fcberschrieben werden. Der hier eingegebene Wert wird als Standardwert verwendet."
+        },
+        "d180868c6f177c67e56f57880c2ec0f7": {
+            "text": "Beachte, dass in jedem Formular auch eine separate \u201eReply-To\u201c-Adresse angegeben werden kann."
+        },
+        "9a8be7c8ac651dda680f9462cf35bdd0": {
+            "text": "Natives PHP mail()"
+        },
+        "cf2b2faa869ade652d01aae11e4ec291": {
+            "text": "E-Mail-Versandmethode (WireMail-Modul)"
+        },
+        "26396be8741c545355792ec88c55db3d": {
+            "text": "F\u00fcr weitere Versandoptionen k\u00f6nnen [WireMail-Module](%s) installiert werden."
+        },
+        "6f2986a4e360c7afe3e426f2ff568c8c": {
+            "text": "Automatische Erkennung"
+        },
+        "6686b74a793b1392f4a37f72b6dd0245": {
+            "text": "Einstellungen f\u00fcr den CSV-Export"
+        },
+        "ae6dcf79e920e350a1598da7d3922f16": {
+            "text": "Diese Einstellungen werden beim Export von Formulareintr\u00e4gen in CSV-Dateien verwendet."
+        },
+        "d573db9930a4e8238f6219832be21101": {
+            "text": "Erweiterte Ausgabeeinstellungen"
+        },
+        "4f1e1917e57cb15e239466389e8df089": {
+            "text": "Wir empfehlen, diese Einstellungen unver\u00e4ndert zu lassen, es sei denn, Sie m\u00f6chten sie \u00e4ndern."
+        },
+        "3dac6c825b2c3b7b8a42d86f7d8c5847": {
+            "text": "Viele dieser Einstellungen dienen \u00e4lteren Zwecken und sind au\u00dfer in \u00e4lteren Installationen wahrscheinlich nicht n\u00fctzlich."
+        },
+        "94314e33cd44edfd5e958a0a9c4d8236": {
+            "text": "Da einige dieser Einstellungen die Konfiguration von HTML-Markup beinhalten, k\u00f6nnen Server mit mod_security das Speichern dieser Einstellungen beeintr\u00e4chtigen. Aus diesem Grund sind sie standardm\u00e4\u00dfig deaktiviert."
+        },
+        "1ed691eaaec7550c18969884ae8d03d3": {
+            "text": "M\u00f6chten Sie die erweiterten Ausgabeeinstellungen \u00e4ndern?"
+        },
+        "87b8ceecb008cee4599a96e4f260a2aa": {
+            "text": "Speichern Sie nach dem Deaktivieren dieser Option. Alle \u00c4nderungen an Ihren Einstellungen bleiben erhalten, auch wenn dieser Schalter deaktiviert ist."
+        },
+        "84f9f8179dce627b1b6851f723ceed6e": {
+            "text": "Nachdem Sie dies aktiviert haben, speichern Sie und kehren Sie hierher zur\u00fcck, um die Einstellungen anzuzeigen oder zu \u00e4ndern."
+        },
+        "cc35f22ebccfc66121a8647cf172463f": {
+            "text": "Iframe-Markup einbetten"
+        },
+        "5a0ace40b206e639f24eef45080e2849": {
+            "text": "Dies ist das von den Einbettungsmethoden A und B verwendete iframe-Markup."
+        },
+        "034c974cac04ff61bb618845e7af6ce5": {
+            "text": "Bitte beachten Sie: Diese Konfigurationseinstellungen gelten nur f\u00fcr Formulare, die das \"Legacy\"-Framework verwenden. Wir empfehlen, diese Einstellungen so zu belassen, wie sie sind."
+        },
+        "5c4c55b8f2312de46c4d5a95fbec5c1d": {
+            "text": "M\u00f6gliche Variablen:"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "file": "site\/modules\/FormBuilder\/frameworks\/FormBuilderFrameworkBootstrap5.php",
+    "textdomain": "site--modules--formbuilder--frameworks--formbuilderframeworkbootstrap5-php",
+    "translations": {
+        "a567624c910d6d6cf1a4c66c6747810d": {
+            "text": "Standardwert:"
+        },
+        "7046992a13e9c5e56240b3b33f924b4a": {
+            "text": "URL zum Bootstrap-Framework"
+        },
+        "1b8d8ccb60f3200527e41aced0b73f6b": {
+            "text": "Gib eine URL\/einen Pfad relativ zum Stammverzeichnis der ProcessWire-Installation an."
+        },
+        "5b176800a4fa5f818733bbc47bf50c58": {
+            "text": "Eingabegr\u00f6\u00dfe"
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Klein"
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Gro\u00df"
+        },
+        "db75bf51e78682f0f7d2bb166e52197a": {
+            "text": "Typ des Senden-Buttons"
+        },
+        "505a83f220c02df2f85c3810cd9ceb38": {
+            "text": "Erfolg"
+        },
+        "990816b607ebf99b1415760965e4d564": {
+            "text": "Achtung"
+        },
+        "0eaadb4fcb48a0a0ed7bc9868be9fbaa": {
+            "text": "Warnung"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "Info"
+        },
+        "9914a0ce04a7b7b6a8e39bec55064b82": {
+            "text": "Hell"
+        },
+        "a18366b217ebf811ad1886e4f4f865b2": {
+            "text": "Dunkel"
+        },
+        "41f582c676a068cd0c288b7be7ca83d0": {
+            "text": "Gr\u00f6\u00dfe der Senden-Buttons"
+        },
+        "2560b3d03bf66b4463001f8c20b3dc06": {
+            "text": "Mittel (Standard)"
+        },
+        "b61d6d2952aa60f97b1947fe693c895c": {
+            "text": "Senden-Button in voller Breite"
+        },
+        "9f74e5857e22528565e6f0b17512d758": {
+            "text": "Standard"
+        }
+    }
+}

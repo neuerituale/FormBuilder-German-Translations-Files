@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderEntries.php",
+    "textdomain": "site--modules--formbuilder--formbuilderentries-php",
+    "translations": {
+        "49eb6a44db57cba8d66b3404fa9f0ad4": {
+            "text": "d.m.Y H:i:s"
+        },
+        "3311cb031490640dc97c2dc530fa8a64": {
+            "text": "F\u00fcr die Suche oder Sortierung in bestimmten Feldern des Formulars ist MySQL 5.7.0 oder eine neuere Version erforderlich"
+        },
+        "10c90d1cb88a00bc365a9d44b7652b6e": {
+            "text": "Datum der Erstellung"
+        },
+        "446bd522af1fd30f24b4d1dceb38ba99": {
+            "text": "Datum der \u00c4nderung"
+        }
+    }
+}

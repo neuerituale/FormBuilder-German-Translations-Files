@@ -1,0 +1,138 @@
+{
+    "file": "site\/modules\/FormBuilder\/ProcessFormBuilderEmbed.php",
+    "textdomain": "site--modules--formbuilder--processformbuilderembed-php",
+    "translations": {
+        "76d471da25c1985c3f6afda784b48aef": {
+            "text": "Wichtig: Vermeide, wenn m\u00f6glich die Zwischenspeicherung mit z. B. ProCache oder Template-Cache. Wenn die Ausgabe des Formulars (oder der Seite, auf der es erscheint) zwischengespeichert werden muss, aktiviere auf der Registerkarte \u201eEinstellungen\u201c das Kontrollk\u00e4stchen \u201eSessionverfolgung und CSRF-Schutz deaktivieren?\u201c"
+        },
+        "d4661cd7ff3d8cbd671dada7101f9ba0": {
+            "text": "Wichtige Hinweise"
+        },
+        "b56a01ad0dab976d4f6f240a51a5dd89": {
+            "text": "Welche Einbettungsmethode sollte verwendet werden?"
+        },
+        "6aff657961ecfd7ff922d2adc34eb714": {
+            "text": "Wir empfehlen, wann immer m\u00f6glich, die Einbettungsmethode C zu verwenden, da sie das beste Gleichgewicht zwischen Flexibilit\u00e4t, Anpassbarkeit und Funktionen bietet."
+        },
+        "a66794c79dc8429a9ad016e5cba6b93d": {
+            "text": "F\u00fcr die Einbettung an einer beliebiger Stelle ohne Template-Bearbeitung, sollte Methode A gew\u00e4hlt werden."
+        },
+        "6d5878366e0bb3d21d9a80736e5f0cb3": {
+            "text": "F\u00fcr die volle Markup-Kontrolle sollte die Methode D verwendet werden. Beachte die Einschr\u00e4nkungen bei Formularaktionen und Plugins und m\u00f6gliche Schwierigkeiten bei sp\u00e4teren Formular\u00e4nderungen."
+        },
+        "71cf6c5627566f1131307ce702ec09bf": {
+            "text": "Um eine reibungslose Funktionalit\u00e4t sicherzustellen ist gr\u00fcndliches Testen des Formulars im Frontend der Website ist sehr wichtig, unabh\u00e4ngig von der gew\u00e4hlten Einbettungsmethode."
+        },
+        "8e60c203dc83e72f9c24d6d253e8a322": {
+            "text": "Das Formular mindestens zweimal senden, um Speicherung und Versand des abgeschickten Eintrags zu \u00fcberpr\u00fcfen."
+        },
+        "d0d612a19cfe30bbf71a1bcc3ac9021c": {
+            "text": "Gr\u00fcndliches Testen neuer Formulare oder \u00c4nderungen an bestehenden Formularen ist immer ratsam. Gleiches gilt f\u00fcr Tests aller Formulare bei der Einf\u00fchrung neuer FormBuilder- oder ProcessWire-Versionen."
+        },
+        "e0a47a832de0f038d3879fe0d1315126": {
+            "text": "Um fortzufahren, w\u00e4hle bitte eine Einbettungsmethode:"
+        },
+        "b38fa2472d38a8d3e13059fc4187071d": {
+            "text": "Option A: Einfaches Einbetten"
+        },
+        "b9746c20baf32e962b4de6cdd0be1338": {
+            "text": "F\u00fcr die Ausgabe des Formulars, f\u00fcge den Tag in deinen Text ein:"
+        },
+        "b3864067ffc6c8b25974959ab501652f": {
+            "text": "Der Tag muss in einen Absatz (p) oder eine \u00dcberschrift (h1, h2, h3, h4) eingef\u00fcgt werden und muss das einzige Element darin sein."
+        },
+        "59451d25ebc5ca525e092f0317582be3": {
+            "text": "Speichern und anzeigen der Seite, um das Formular zu sehen."
+        },
+        "efbb2d876f90053947d700da3b6aa2ed": {
+            "text": "Wenn Sie diese einfache Einbettungsoption in anderen Feldern unterst\u00fctzen m\u00f6chten, k\u00f6nnen Sie in den Einstellungen des Form Builder-Moduls weitere Felder hinzuf\u00fcgen."
+        },
+        "173d0d2374e81aa671d047fb3205c2b9": {
+            "text": "Diese Einbettungsoption erfordert mindestens ein aktiviertes Einbettungsfeld, das in den Einstellungen des Form Builder-Moduls konfiguriert werden kann."
+        },
+        "77cf778e6b38d7dc52b78d965504acf9": {
+            "text": "Option B:  Einbetten in Template"
+        },
+        "214e90e72d84551a0c2a57c4a561d5f3": {
+            "text": "F\u00fcge den Einbettungscode in das Template ein."
+        },
+        "c4fff15bb884e7a7c8e68bdc8006ef54": {
+            "text": "Verwende diese Option, um das Formular aus einer Template-Datei statt aus einem Feld zu laden."
+        },
+        "c8801454be0ea5167eac0e820c4c9445": {
+            "text": "Diese Option bietet mehr definierte Platzierungsoptionen im Vergleich zu Option A, erfordert jedoch die Bearbeitung einer Template-Datei."
+        },
+        "c3c8aba5ea14b989b9733f996334baeb": {
+            "text": "Kopiere den folgenden Code in die Template-Datei(en) wo das Formular ausgegeben werden soll:"
+        },
+        "4fb444ad8c9e1e02cefe4baf15e43b4e": {
+            "text": "Option C: Bevorzugtes Embed"
+        },
+        "8473fa494e094775e4025933225c6660": {
+            "text": "Rendern Sie das Formularmarkup direkt aus Ihrer Vorlagendatei (kein Iframe)."
+        },
+        "f2f8dc604b5243dda3ce124dc774c0ae": {
+            "text": "Diese Option wird f\u00fcr die meisten F\u00e4lle empfohlen (wenn\/wo m\u00f6glich) und bietet die beste Balance zwischen Flexibilit\u00e4t, Anpassung und Funktionen. Sie ist mit allen FormBuilder-Aktionen und -Plugins kompatibel."
+        },
+        "f2775cda06a77efb69765fccd3e96779": {
+            "text": "Es rendert das Formular-Markup direkt auf der Seite, was bedeutet, dass die CSS-Stile Ihrer Website das Erscheinungsbild beeinflussen k\u00f6nnen (was erw\u00fcnscht sein kann, aber auch nicht)."
+        },
+        "d66f603867b8ab7bfbd3b6435ffa44fd": {
+            "text": "Wenn Sie bereits eines der kompatiblen CSS-Frameworks (Uikit, Bootstrap usw.) verwenden, ist die Einbettungsmethode C m\u00f6glicherweise ideal, da das Markup f\u00fcr Ihr Framework vorbereitet ist."
+        },
+        "b2b5c3eac75aa3071520ef4eb84c7def": {
+            "text": "Wenn Sie kein CSS-Framework f\u00fcr Ihre Website verwenden, w\u00e4hlen Sie am besten \"Basic\" als FormBuilder-Framework (auf der Registerkarte \"Output\"). Beachten Sie, dass Sie m\u00f6glicherweise mit Ihrem CSS-Stylesheet arbeiten m\u00fcssen, um das Aussehen des Formulars zu optimieren."
+        },
+        "bcefb15c742e1a034ee536a780108303": {
+            "text": "Kopieren Sie den folgenden Code und f\u00fcgen Sie ihn an den entsprechenden Stellen in Ihre Vorlagendatei(en) ein, und passen Sie ihn bei Bedarf an."
+        },
+        "a5f7bf3fe4046bd0ba95ab7cf9ed8856": {
+            "text": "Platzieren Sie das Folgende irgendwo, bevor die Ausgabe beginnt (z. B. in einer _init.php-Datei oder am Anfang einer Vorlagendatei)."
+        },
+        "918c4d7bdbf0b5e7eae66fbac602241b": {
+            "text": "Platzieren Sie Folgendes in Ihrem Dokument <head><\/head>, wo Sie CSS-Dateien (Stile) und JS-Dateien (Skripte) ausgeben."
+        },
+        "fb3fc0f16b6048d5eedf00d08572adaf": {
+            "text": "Sie k\u00f6nnen diese beiden Zeilen je nach Bedarf aufteilen oder mit der oben genannten Zeile kombinieren."
+        },
+        "01001be75f2a2961960448a277aeb868": {
+            "text": "Platzieren Sie das Folgende an einer sp\u00e4teren Stelle in Ihrem Dokument <body>, wo Ihr Formular gerendert werden soll:"
+        },
+        "2d4c9e9c90492b5c612dcb6092f1e1db": {
+            "text": "Option D: Benutzerdefiniertes Markup einbetten"
+        },
+        "27f74f78aa391a8f1079059edbb04af4": {
+            "text": "Mit dieser Option haben Sie die volle Kontrolle \u00fcber das Markup in Ihrem Formular und es wird direkt in Ihre Vorlagendatei(en) ausgegeben."
+        },
+        "54bba052bfd381ff5cc3f1fc93acfc0c": {
+            "text": "Beachten Sie jedoch, dass Sie dadurch m\u00f6glicherweise in der Verwendung von Aktionen\/Plugins eingeschr\u00e4nkt werden und mehr Arbeit haben, wenn Sie in Zukunft \u00c4nderungen an dem Formular vornehmen m\u00fcssen."
+        },
+        "6185c9ce51e6e17f6344b202f5e39df6": {
+            "text": "Es ist ratsam, diese Option erst zu verwenden, wenn Ihr Formular \"endg\u00fcltig\" ist, da Sie alle weiteren \u00c4nderungen an der Formularauszeichnung manuell vornehmen m\u00fcssen, nachdem Sie diese Option verwendet haben."
+        },
+        "9203aaba861915344955cd39ccb3ba08": {
+            "text": "Klicken Sie hier, um eine Kopie der Formularauszeichnung zu exportieren."
+        },
+        "eb944faee6acea3ce2706e2b4c71d934": {
+            "text": "Es wird eine Kopie der Formularauszeichnung in diese Datei exportiert:"
+        },
+        "c327370eb2e34ea05e4c28ba81353198": {
+            "text": "Kopieren Sie die oben genannte Datei in diese Datei:"
+        },
+        "f565961e6f0e8e91a6f51750dff6061d": {
+            "text": "Bearbeiten Sie die oben kopierte Datei und folgen Sie den Anweisungen in den Kommentaren der Datei."
+        },
+        "d0f1d36da213f4df8bd401cfb90b619a": {
+            "text": "F\u00fcgen Sie Folgendes in eine Vorlagendatei ein, in der Sie das Formular ausgeben m\u00f6chten:"
+        },
+        "6e3eb57296a5ba9a87c3ca387c6e2972": {
+            "text": "Hinweis: In Ihrer ProcessWire-Installation ist eine Sicherheitsfunktion namens Session Fingerprint aktiviert."
+        },
+        "bb01eb3ecb259f13a7953f5a1ac269b6": {
+            "text": "Wenn Benutzer Ihres Formulars IP-Adressen haben, die sich \u00e4ndern k\u00f6nnen, w\u00e4hrend sie ein Formular ausf\u00fcllen, sollten Sie das Session-Tracking\/CSRF-Schutz f\u00fcr dieses Formular deaktivieren (siehe Registerkarte Einstellungen) oder eine andere %s-Einstellung in der Datei \/site\/config.php hinzuf\u00fcgen."
+        },
+        "a08e1bacb7f7ea108e8bbdd85b92e428": {
+            "text": "Dies ist die einfachste Methode, bei der nichts weiter getan werden muss, als eine Seite zu bearbeiten und den folgenden Tag an der gew\u00fcnschten Stelle einzuf\u00fcgen (%s)."
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderProcessor.php",
+    "textdomain": "site--modules--formbuilder--formbuilderprocessor-php",
+    "translations": {
+        "8d5e5500e5267ada7e581d5da1d942a7": {
+            "text": "Seite au\u00dferhalb des Bereichs"
+        },
+        "ee4fea90aebd53a6ff5271fc062d4e88": {
+            "text": "Der Zugriff auf dieses Formular ist nicht erlaubt."
+        },
+        "761f9f42dfa769eee4d92d1b9cbe3827": {
+            "text": "Dieses Formular ist deaktiviert."
+        },
+        "b4c4d5a034747efdad4a5849002b7b47": {
+            "text": "Ung\u00fcltiger Eintrag"
+        },
+        "357a24f1adce7246348807b111e74e9c": {
+            "text": "Dieses Formular ist deaktiviert (wird nur Administratoren angezeigt)."
+        },
+        "e36650e98bbadd6dd555ddc9fcf7cbaf": {
+            "text": "Formularexport fehlgeschlagen"
+        },
+        "63f2594ff3e38985ebc1fea7ba133805": {
+            "text": "Formulare mit Paginierung k\u00f6nnen die Einbettungsmethode D nicht verwenden. Bitte verwenden Sie Einbettung A, B oder C."
+        },
+        "466f7cd8bfe1fd6da97efb882d74e688": {
+            "text": "Formular-Markup exportiert:"
+        },
+        "d2f39341cab7a069399f9464e30f5178": {
+            "text": "Das Fenster kann geschlossen werden."
+        },
+        "6452e77620f68504901d75387345cd76": {
+            "text": "Formular hat keine Felder"
+        },
+        "a03a4afd6dc4a0aa7dbd39fa08981d74": {
+            "text": "Die Sitzung ist abgelaufen daher wurde eine neue gestartet \u2013 bitte das Formular erneut senden."
+        },
+        "473af4605dbd12d01af485eeae8e3875": {
+            "text": "Dieses Formular scheint bereits gesendet worden zu sein."
+        },
+        "ed8687d3fa857268e4096eba0fed9fe2": {
+            "text": "Spamfilter wurde ausgel\u00f6st"
+        },
+        "15c25de1b9b155a580ecae82d211d055": {
+            "text": "Dieses Formular wurde bereits gesendet."
+        },
+        "1dee5691871db4252b167d6f7624d27c": {
+            "text": "Die erfolgreiche E-Mail-Zustellung dieser Formular\u00fcbermittlung kann nicht best\u00e4tigt werden."
+        },
+        "3b277ff7c4e95346a977497a9f4b7ea4": {
+            "text": "(Diese Meldung wird nur Administratoren angezeigt)"
+        },
+        "a84034c8b321d38f2d543cb16f2f0c24": {
+            "text": "Vielen Dank, das Formular wurde gesendet."
+        },
+        "729d2b9b1a95a60f2a37c67b5244b509": {
+            "text": "Eintr\u00e4ge in Datenbank speichern"
+        },
+        "be493f4eb532f72a03c4e5fa9833b258": {
+            "text": "E-Mails an den Administrator senden"
+        },
+        "cc3313532dc868076c17aab10ce2b7d8": {
+            "text": "Kopie an URL senden"
+        },
+        "caced84394099945221c594328e89fa5": {
+            "text": "An Seiten senden"
+        },
+        "ed83e342929e463706236c4750cbc587": {
+            "text": "An externe URL senden"
+        },
+        "f37b4fbdf7df44b2e8d1596f90eebf2a": {
+            "text": "Nach Spam filtern"
+        },
+        "cd59c974d2579bbf427b36a04c458f37": {
+            "text": "Auto-Responder-E-Mail Senden"
+        },
+        "71444089fdd9efe7c4bcaa8fba12dee8": {
+            "text": "Kein g\u00fcltiger Produktschl\u00fcssel gefunden"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "file": "site\/modules\/FormBuilder\/ProcessFormBuilderImport.php",
+    "textdomain": "site--modules--formbuilder--processformbuilderimport-php",
+    "translations": {
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Typ"
+        },
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Hinzuf\u00fcgen"
+        },
+        "1354b8d135e13cd78e5c233baf78942b": {
+            "text": "Ung\u00fcltige JSON-Daten importieren"
+        },
+        "bab4e3028c9379f6c7eaf567ee8bc7fc": {
+            "text": "Aktualisierte Felder sortieren"
+        },
+        "74cdeee82c6be8c11b9537a079784df1": {
+            "text": "W\u00e4hle die Felder, die importiert werden sollen"
+        },
+        "2fc506765a533bd668d4afa9bf6a8978": {
+            "text": "Nachfolgend die Liste der Felder, die in den Importdaten gefunden wurden und die nicht mit den Feldern im Formular identisch sind."
+        },
+        "96ee02226b324f6634895862b79392c6": {
+            "text": "Die <del>rot<\/del> markierten Werte sind die alten Werte, die <ins>gr\u00fcn<\/ins> markierten die neuen Werte."
+        },
+        "24b5236bce18c683305ea4415cb4f57d": {
+            "text": "Beachte, dass nur ge\u00e4nderte Werte angezeigt werden."
+        },
+        "a40cd434b16249d102d47da63b86d4f5": {
+            "text": "Unterschiede"
+        },
+        "a02b9f69c538b3ed3164e3789784212c": {
+            "text": "W\u00e4hle die Formulareigenschaften, die importiert werden sollen"
+        },
+        "cbd1529cff132e06678195f551346231": {
+            "text": "Nachfolgend die Liste der Eigenschaften, die in den importierten Daten gefunden wurden und die nicht mit den bereits im Formular vorhandenen Eigenschaften identisch sind."
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Eigenschaft"
+        },
+        "004bf6c9a40003140292e97330236c53": {
+            "text": "Aktion"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "Wert"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Felder"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "Bestellung"
+        },
+        "dfe7368456cda8933c6d31a3c4f91447": {
+            "text": "Die Importdaten stimmen mit dem aktuellen Formular \u00fcberein (keine Feldunterschiede gefunden)."
+        },
+        "2d9a4e15103722d164f0500843340f63": {
+            "text": "Die folgenden Felder sind im aktuellen Formular vorhanden, aber nicht in den Importdaten. Wenn diese Felder gel\u00f6scht werden sollen, l\u00f6sche sie bitte manuell:"
+        },
+        "41c7ed7b166c4769dec7a4db8b9496db": {
+            "text": "Ergebnisse importieren"
+        },
+        "7fd9c7c9c4bc9ad5e93b8dd91556856c": {
+            "text": "Zur\u00fcck zum Formular-Editor"
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Entfernen"
+        },
+        "7f090bbab1cc7f9c08bf4e54d932d3c0": {
+            "text": "\u00c4ndern"
+        },
+        "dfb0c566cd0aa3d5848eab6d0f383560": {
+            "text": "Neues Feld"
+        }
+    }
+}

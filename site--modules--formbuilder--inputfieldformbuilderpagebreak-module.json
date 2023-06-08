@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/FormBuilder\/InputfieldFormBuilderPageBreak.module",
+    "textdomain": "site--modules--formbuilder--inputfieldformbuilderpagebreak-module",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "0f07b61e5890550505f9678a3ec22315": {
+            "text": "Klicke zum Bearbeiten"
+        },
+        "e62842111c2b8e961de945c6c75b05df": {
+            "text": "Zur Seite springen.."
+        },
+        "5f075ae3e1f9d0382bb8c4632991f96f": {
+            "text": "Weiter"
+        },
+        "80732f133f256db3e65e7e81a6681abb": {
+            "text": "Zusammenfassung des gesamten Formulars f\u00fcr diese Seitenzahl anzeigen?"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderFramework.php",
+    "textdomain": "site--modules--formbuilder--formbuilderframework-php",
+    "translations": {
+        "2b89c62e87e1bc4aef3766cad890dfe7": {
+            "text": "Konfiguration speziell f\u00fcr das %s-Framework."
+        },
+        "2a95c1cbb0a147386159d47c8d5925fd": {
+            "text": "Umgehung des automatischen Dateiladens"
+        },
+        "e8145a7ca1066bc778cd73ab7c83721b": {
+            "text": "Wenn die Website bereits eines dieser Assets l\u00e4dt, kann das Laden durch aktivieren der Checkbox unterdr\u00fcckt werden."
+        },
+        "6400dd1497539337f813e4b432bdc1b9": {
+            "text": "%s Framework-Dateien nicht laden*"
+        },
+        "fc61a13b3c0919f4945782f5dafd388a": {
+            "text": "JQuery* nicht laden"
+        },
+        "497d4cd80cdaff2649be49b0c3e15548": {
+            "text": "JQuery UI nicht laden, wenn es durch ein Eingabefeld angefordert wird*"
+        },
+        "7416243e06ac2754dd12e5149d510cb1": {
+            "text": "*Diese Option gilt nur f\u00fcr die Einbettungsmethoden C und D."
+        }
+    }
+}

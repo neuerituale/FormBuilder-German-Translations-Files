@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilder.module",
+    "textdomain": "site--modules--formbuilder--formbuilder-module",
+    "translations": {
+        "73abdd8b426241991e87b4b83e69828a": {
+            "text": "Formular nicht gefunden"
+        },
+        "4efdba1c6ba01cbc41008edbe8f8ef59": {
+            "text": "Seite f\u00fcr FormBuilder wurde nicht gefunden"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderPartialEntries.php",
+    "textdomain": "site--modules--formbuilder--formbuilderpartialentries-php",
+    "translations": {
+        "9bcb3af6de255e8e96f1889d4859b133": {
+            "text": "(Seite %d)"
+        },
+        "3346ac44926414b1f4d522b3c25d9a1f": {
+            "text": "Noch nicht eingereicht"
+        }
+    }
+}

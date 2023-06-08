@@ -1,0 +1,84 @@
+{
+    "file": "site\/modules\/FormBuilder\/frameworks\/FormBuilderFrameworkUikit3.php",
+    "textdomain": "site--modules--formbuilder--frameworks--formbuilderframeworkuikit3-php",
+    "translations": {
+        "cda5132955c43b0ac7ae8adfa27cc35e": {
+            "text": "Datei ausw\u00e4hlen"
+        },
+        "a567624c910d6d6cf1a4c66c6747810d": {
+            "text": "Standardwert:"
+        },
+        "9ba530fe48656a170d4cba4c8133bffe": {
+            "text": "URL zum Uikit-Framework"
+        },
+        "1b8d8ccb60f3200527e41aced0b73f6b": {
+            "text": "Gib eine URL\/einen Pfad relativ zum Stammverzeichnis der ProcessWire-Installation an."
+        },
+        "c82761fd99727c437f30cf134527951e": {
+            "text": "Standort des Kern-Uikits: %s"
+        },
+        "e5e3f60dc7c79b9478a70cf3c7297fa8": {
+            "text": "Oder geben Sie den Speicherort Ihrer eigenen Kopie an."
+        },
+        "94224f1b8a3a8b059c01ebce968737cc": {
+            "text": "Uikit CSS-Theme-Datei"
+        },
+        "581aca62b8444e789a50a5b0f45687bd": {
+            "text": "Formularstil"
+        },
+        "385329224ff04a30d12f39f671f1f3ee": {
+            "text": "Gestapelt (Standard)"
+        },
+        "9e47c6d894b62711d150f3d864530a9f": {
+            "text": "Horizontal (2-spaltig)"
+        },
+        "cb13fc9385a05438eec0d718221c32fa": {
+            "text": "Bitte beachte, dass die Spaltenbreiten der einzelnen Felder (falls verwendet) bei der Verwendung des Stils Horizontal nicht anwendbar sind."
+        },
+        "b05a76aedbfa9617b98f6b134499e05b": {
+            "text": "Inline-Fehlerplatzierung"
+        },
+        "7883436936b3a496c104bafbf50ac687": {
+            "text": "\u00dcber Eingaben"
+        },
+        "405eb767a0926d897b26386196d3fec7": {
+            "text": "Untere Eing\u00e4nge"
+        },
+        "2ad27a22d98d3c948d3c1c21f8077006": {
+            "text": "Prozentuale Breite f\u00fcr Etikettenspalten (nur horizontaler Stil)"
+        },
+        "7524e33af67149a6f4295a4632c3abd9": {
+            "text": "Gib einen Wert zwischen 5% und 90% Prozent an, um die Breite der Beschriftungsspalte zu bestimmen. Die Eingabespalte hat den verbleibenden Prozentsatz, d.h. wenn hier 30% angeben wurde, hat die Beschriftungsspalte eine Breite von 30% und die Eingabespalte eine Breite von 70%."
+        },
+        "5b176800a4fa5f818733bbc47bf50c58": {
+            "text": "Eingabegr\u00f6\u00dfe"
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Klein"
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Gro\u00df"
+        },
+        "db75bf51e78682f0f7d2bb166e52197a": {
+            "text": "Typ des Senden-Buttons"
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Standard"
+        },
+        "990816b607ebf99b1415760965e4d564": {
+            "text": "Achtung"
+        },
+        "41f582c676a068cd0c288b7be7ca83d0": {
+            "text": "Gr\u00f6\u00dfe des Senden-Buttons"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Normal"
+        },
+        "b61d6d2952aa60f97b1947fe693c895c": {
+            "text": "Senden-Button in voller Breite"
+        },
+        "3eb4ff7452edbaf86f11b2490a618c99": {
+            "text": "Fette Formularbeschriftungen verwenden?"
+        }
+    }
+}

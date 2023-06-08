@@ -1,0 +1,39 @@
+{
+    "file": "site\/modules\/FormBuilder\/frameworks\/FormBuilderFrameworkBasic.php",
+    "textdomain": "site--modules--formbuilder--frameworks--formbuilderframeworkbasic-php",
+    "translations": {
+        "5ae991b97dcea9543e7e1f63fb38a880": {
+            "text": "URL zur CSS-Datei, die dieses Formular gestaltet"
+        },
+        "1b8d8ccb60f3200527e41aced0b73f6b": {
+            "text": "Geben Sie eine URL\/einen Pfad relativ zum Stammverzeichnis der ProcessWire-Installation an."
+        },
+        "a567624c910d6d6cf1a4c66c6747810d": {
+            "text": "Standardwert:"
+        },
+        "0c251cba6906ea207e512bf5c546edca": {
+            "text": "Hintergrundfarbe der Buttons"
+        },
+        "cb6243636b3d31c5006833fbda3ffe18": {
+            "text": "Gib den CSS-Hex-Farbwert oder den CSS-Farbnamen ein. Weglassen, um die Farbe aus der CSS-Datei des Frameworks zu verwenden."
+        },
+        "890c2c692506febbaefb16238c6dc180": {
+            "text": "Beachte, dass die Vordergrundfarbe (Text) der Schaltfl\u00e4che wei\u00df ist, daher sollten helle Hintergrundfarben vermieden werden."
+        },
+        "67087a6fda7d4c33f83249d404bd00c2": {
+            "text": "Reihenfolge des Inhalts von Eingabefeldern"
+        },
+        "fc4c04ecf67db91c6464624c45b6d962": {
+            "text": "Beschreibungstext"
+        },
+        "561ae6d2247f75225607f48c00da0976": {
+            "text": "Eingabe-Element"
+        },
+        "c9072630ac7ef2578f7068472cf815ee": {
+            "text": "Inline-Fehler"
+        },
+        "74d5e1805d45df0b13e9479aa6ff2560": {
+            "text": "Bemerkungen"
+        }
+    }
+}

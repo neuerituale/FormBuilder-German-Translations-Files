@@ -1,0 +1,81 @@
+{
+    "file": "site\/modules\/FormBuilder\/InputfieldFormBuilderFile.module",
+    "textdomain": "site--modules--formbuilder--inputfieldformbuilderfile-module",
+    "translations": {
+        "6954366cd14788b89d1357e644853328": {
+            "text": "Datei hinzuf\u00fcgen"
+        },
+        "d1e4cf6fe8120e77b907bde1ebe14d8f": {
+            "text": "F\u00fcr Dateifelder muss die Aktion \u201eEintr\u00e4ge in der Datenbank speichern\u201c aktiviert sein."
+        },
+        "bfffd777f6bb9388677058e9c0c1082e": {
+            "text": "Die Datei ist zu gro\u00df (maximal %s)"
+        },
+        "440e2190e83bcec774cd23307ac815eb": {
+            "text": "Datei-Erweiterung stimmt nicht mit dem Typ \u00fcberein"
+        },
+        "441502a7afbbb1570b29776d9b084ff2": {
+            "text": "Gel\u00f6scht: %s"
+        },
+        "44b0433ff903fcae0e41e4408b1c84a2": {
+            "text": "Maximale Dateigr\u00f6\u00dfe von %d Bytes \u00fcberschritten."
+        },
+        "34c7a042079ff440c952ba5bfbec728a": {
+            "text": "G\u00fcltige Dateierweiterungen"
+        },
+        "53275fc526e43e61ab39bc8fb78f68d0": {
+            "text": "Gib alle zul\u00e4ssigen Dateierweiterungen f\u00fcr dieses Feld an. Trennen jede Erweiterung mit Leerzeichen, ohne Punkte oder Kommas."
+        },
+        "1ececa0cd94700f0dc2e4e29b336fc45": {
+            "text": "Maximale Dateigr\u00f6\u00dfe (pro Datei) in Bytes"
+        },
+        "fd05d7f6bfc90e815087880e8e915b43": {
+            "text": "Beispiele:"
+        },
+        "7a40e771338351f0f22429028dd2e901": {
+            "text": "Maximal Anzahl an Dateien"
+        },
+        "91dd5e90fa3c0c2fbe37449037db1d8c": {
+            "text": "Muss 1 oder gr\u00f6\u00dfer sein"
+        },
+        "ce6f9cfe727cac33c22abc1da27cd813": {
+            "text": "Nur jeweils ein Dateiupload-Feld anzeigen?"
+        },
+        "ba954e153c4fc54e402f93436f909143": {
+            "text": "Wenn aktiviert, wird zun\u00e4chst nur ein Feld zum Hochladen von Dateien angezeigt, und jedes Mal, wenn der Benutzer eine Datei ausw\u00e4hlt, wird ein weiteres Feld angezeigt (bis zum angegebenen Limit)."
+        },
+        "52585969263fd526b4914747062db571": {
+            "text": "Vorschau f\u00fcr Uploads von Bilddateien anzeigen?"
+        },
+        "626cf4671e6a93869bfd15876c43f553": {
+            "text": "Wenn aktiviert, erscheint ein Vorschaubild nachdem ein User ein Bild ausgew\u00e4hlt hat."
+        },
+        "e13fef3aefe281423cb76f8938226fed": {
+            "text": "Diese Funktion ist nur f\u00fcr das Hochladen von Bilddateien (jpg, png, gif) geeignet."
+        },
+        "355e12a063192ed24bbe9944891ccf99": {
+            "text": "Eine nummerierte \u00dcberschrift zu jeder Datei anzeigen?"
+        },
+        "7275746027cf60f96fa82d3148317dd7": {
+            "text": "Beispiel: %s"
+        },
+        "099af53f601532dbd31e0ea99ffdeb64": {
+            "text": "l\u00f6schen"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschreibung"
+        },
+        "7c34010ba0878f3b404ab73615e44201": {
+            "text": "Anzahl der Zeilen f\u00fcr die Eingabe der Dateibeschreibung"
+        },
+        "073610da0043839e33531eec66593d59": {
+            "text": "1 erzeugt eine einzeiliges Textfeld, 2 oder mehr f\u00fcr Textarea-Eingabe, 0 deaktiviert das Beschreibungsfeld."
+        },
+        "c2e74312c8d6f4aedc48c012476bf093": {
+            "text": "Maximale L\u00e4nge f\u00fcr jede Dateibeschreibung."
+        },
+        "8c52d087a2b1bfdd5bd8f7bbfc8389c0": {
+            "text": "Diese Option wird nur f\u00fcr die Einbettungsmethoden C und D empfohlen. Verwende sie nicht bei den Einbettungsmethoden A oder B."
+        }
+    }
+}

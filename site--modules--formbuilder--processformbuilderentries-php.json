@@ -1,0 +1,261 @@
+{
+    "file": "site\/modules\/FormBuilder\/ProcessFormBuilderEntries.php",
+    "textdomain": "site--modules--formbuilder--processformbuilderentries-php",
+    "translations": {
+        "bc14b0a9c516310fc195a778937cc0a0": {
+            "text": "Eintr\u00e4ge"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Ausgew\u00e4hlte l\u00f6schen"
+        },
+        "d443ef32ab3606555c7e27ac2812582e": {
+            "text": "Ausgew\u00e4hlte erneut senden"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Ge\u00e4ndert"
+        },
+        "a4b7f1864cfdb47cd05b54eb10337506": {
+            "text": "\u00c4nderungsdatum"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Erstellt"
+        },
+        "b3b60b7a5e7f9977461d42a94bf2c761": {
+            "text": "Erstellungsdatum"
+        },
+        "168b82d33f8073018c50a4f658a02559": {
+            "text": "Spalten"
+        },
+        "7d1353b20269c466d67fc2d6beca3060": {
+            "text": "Spalten und Anzeigereihenfolge"
+        },
+        "07ca5050e697392c9ed47e6453f1453f": {
+            "text": "Vollst\u00e4ndig ausgef\u00fcllt"
+        },
+        "44ffd38a6dea695cbe2b34efdcc6cf27": {
+            "text": "Unvollst\u00e4ndig"
+        },
+        "b539be92f7dea86a89f4d0861c2d3718": {
+            "text": "Beliebiges Feld"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Alle"
+        },
+        "50d9d560b468ec07f8b4fe721fcae24e": {
+            "text": "Ab (Datum)"
+        },
+        "bad39a65b5302bb8628585aae59da36b": {
+            "text": "Bis (Datum)"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Sortierung"
+        },
+        "fa2359f69ebf514b75ee4255caecff18": {
+            "text": "Anzahl (pro Seite)"
+        },
+        "0f6969d7052da9261e31ddb6e88c136e": {
+            "text": "entfernen"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "neu"
+        },
+        "149603e6c03516362a8da23f624db945": {
+            "text": "alt"
+        },
+        "8d966b2253a917086c8604959e152243": {
+            "text": "hoch"
+        },
+        "53cced8d281a1a0ace3cb6594daaa4f7": {
+            "text": "niedrig"
+        },
+        "4d9c2073afa3c2abb817dceb22c34de6": {
+            "text": "umgekehrt"
+        },
+        "9e65b51e82f2a9b9f72ebe3e083582bb": {
+            "text": "(leer)"
+        },
+        "558ffc8f5770d8e4f95f51d822685532": {
+            "text": "UND"
+        },
+        "0c49650bf74994664c61be39548a7e2d": {
+            "text": "d.m.Y"
+        },
+        "05a2e16156a4fab1ac4bd92b161217e4": {
+            "text": "TT.MM.JJJJ"
+        },
+        "af605ea55ee39e54c444f217e346048f": {
+            "text": "Unbegrenzt"
+        },
+        "fc6f398132b3a3f3a0cd872771c9ca4f": {
+            "text": "Eintr\u00e4ge exportieren"
+        },
+        "d9d6cc253fa8b11774e2e2e1686a39b5": {
+            "text": "Alle Eintr\u00e4ge und Spalten exportieren"
+        },
+        "3629d01920a945712d30867ceba48ef3": {
+            "text": "CSV exportieren"
+        },
+        "a49bbd5b1fee04456bb90e9f4e7065d0": {
+            "text": "Suche in (Feld)"
+        },
+        "ba54816dbcbcdc85e43a5bfaf8ee1ca3": {
+            "text": "Art der Suche"
+        },
+        "c2b8254eb51c404cb4e72a7e1d75ce15": {
+            "text": "Suche nach (Wert)"
+        },
+        "a94e079291655d7edb26b8945e15584a": {
+            "text": "(unvollst\u00e4ndiger Eintrag)"
+        },
+        "298d6f51fcfa6f9a5ec45b216d7f08e4": {
+            "text": "Noch nicht erstellt"
+        },
+        "14a60aa7fbd5be9e8641e50360d6c618": {
+            "text": "Noch nicht ver\u00f6ffentlicht"
+        },
+        "77d6333e6f96610f80115c312965cf27": {
+            "text": "Keine Eintr\u00e4ge vorhanden"
+        },
+        "1999f9dfbebc621191757639015f4d95": {
+            "text": "Zur\u00fcck zu den Eintr\u00e4gen"
+        },
+        "62231b4fbb95932320b8eeb7919b95ee": {
+            "text": "Eintrag: %s"
+        },
+        "b8c348f9242fd0f305ee838528a0c532": {
+            "text": "Spaltenauswahl, Suchfilter und mehr"
+        },
+        "c590c0f2340fa085e7adde816b262c96": {
+            "text": "Ansehen"
+        },
+        "01c0db03ffc668aca60d0955224040dd": {
+            "text": "Bearbeiten"
+        },
+        "e71737a378e6027791252645649edcbf": {
+            "text": "Vergleichen"
+        },
+        "d157d14feb7fdcc116f5c6a9bb74f1fa": {
+            "text": "Seite"
+        },
+        "ea0e2b2e87ba292d44ef7eebb69de80d": {
+            "text": "Eintrag gespeichert"
+        },
+        "c8578ad00e480eb729d0212ce5cce4b5": {
+            "text": "Bearbeiten"
+        },
+        "74c80ad6b9d6e3089e1cea0354c75f94": {
+            "text": "(Datum\/Zeit)"
+        },
+        "f0f81b8c97d88bcfa497aaa18625526b": {
+            "text": "Eintr\u00e4ge werden automatisch nach %s Tag(en) gel\u00f6scht, gem\u00e4\u00df den Formulareinstellungen."
+        },
+        "9486ddfe26a28301f506a18c8af408e1": {
+            "text": "(Relative Zeitangabe)"
+        },
+        "13348442cc6a27032d2b4aa28b75a5d3": {
+            "text": "Suchen"
+        },
+        "b5a946d717c4c0e88f278a0f78afbddc": {
+            "text": "Weitere Suchfilter hinzuf\u00fcgen, die als UND-Bedingung betrachtet werden."
+        },
+        "e091c257c5227f72bfbf9d37e1e647c2": {
+            "text": "Liste aktualisieren"
+        },
+        "37d188624d4743e560f9b31cb435696b": {
+            "text": "Feld-Beschriftung statt Namen f\u00fcr Kopfzeile verwenden"
+        },
+        "2c02de687fba2be78174bbb7d01610f9": {
+            "text": "UTF-8-Signatur (BOM) in CSV-Datei einbetten"
+        },
+        "a5554ee0c581cb23bef6aba9adcf8e64": {
+            "text": "Seite %d aktualisiert"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Art"
+        },
+        "c7268757fbabf48019f4984933539d8a": {
+            "text": "Alt"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Neu"
+        },
+        "49630f5d7723e9b41474bd1cb1887b9d": {
+            "text": "Vergleich"
+        },
+        "435fa9fca9740be2b34fb994fd28bbf5": {
+            "text": "Seite und Eintrag sind auf dem selben Stand (keine Unterschiede)."
+        },
+        "94300f722fbe00801e3f0358adcd8225": {
+            "text": "Ausgew\u00e4hlte \u00c4nderungen in Seite \u00fcbernehmen"
+        },
+        "acab3d7518ab58436d2daa1db8382518": {
+            "text": "Daten"
+        },
+        "5a92675cc7e04e6c607c9731aa6d8064": {
+            "text": "Bearbeiten"
+        },
+        "2627637e263ef687fa978b576580b8b1": {
+            "text": "Ausgew\u00e4hlt"
+        },
+        "f0c49f49661670cb88d2fd060c4d6a68": {
+            "text": "Nicht ausgew\u00e4hlt"
+        },
+        "b5a72ea20cbda19e140a2904d88dd179": {
+            "text": "(ausschlie\u00dflich)"
+        },
+        "e1b0d4985cde24f64183b7c2f61f473e": {
+            "text": "(gefiltert)"
+        },
+        "e6a6dac6536746746516a2d988574b94": {
+            "text": "Bestehende Seite aktualisiert"
+        },
+        "f4dfd8f4e59105536eb6532036227cf2": {
+            "text": "Eintrag in Seiten \u00fcbernommen"
+        },
+        "7e82d5870052e82b8b5ec1745094adbd": {
+            "text": "Ausgew\u00e4hlte in Seiten \u00fcbernehmen"
+        },
+        "5b6e4d32fc0ff5c8a5b968fdd6421e78": {
+            "text": "(abgeschlossen, teilweise, Spam)"
+        },
+        "9e38ba300e76a892e5d47df10b8fe26e": {
+            "text": "Abgeschlossene Aktion \"%s\""
+        },
+        "2ea0249d084c937460ab7cb00004fba4": {
+            "text": "Es sind keine Eintr\u00e4ge ausgew\u00e4hlt"
+        },
+        "c6f9b4d36593c81e7415df4e4c7a0fd6": {
+            "text": "Aktion \u201e%s\u201c auf %d Eintr\u00e4ge anwenden?"
+        },
+        "9aa0b06f1c79448e0f56f6129cbd1be0": {
+            "text": "Aktion \u201e%s\u201c auf 1 Eintrag anwenden?"
+        },
+        "4e7478e94d5dfe9449f8e33a208f700c": {
+            "text": "Aktion f\u00fcr ausgew\u00e4hlte Einr\u00e4ge"
+        },
+        "2d044f53abfc9690ad4a76af9a78dc26": {
+            "text": "Admin-E-Mail erneut senden"
+        },
+        "bc8194b2c8653947347162c9957149a2": {
+            "text": "Auto-Responder-E-Mail erneut senden"
+        },
+        "00923b66b3c6d09df25e0c57390bdda8": {
+            "text": "\u201ePartial\u201c-Flag entfernen"
+        },
+        "64aa972b8434b9723c5579474a0ad2f3": {
+            "text": "\u201eSpam\u201c-Flag entfernen"
+        },
+        "68054a8cf63d80854f468bc6e36ce2e1": {
+            "text": "Nur Zeilen und Spalten exportieren, die meinen Auswahlen entsprechen"
+        },
+        "ce4c1af01f15ba66dd8982a73cb7a03f": {
+            "text": "(SPAM-Eintrag)"
+        },
+        "507510662ce0453c588e342406b5cb2d": {
+            "text": "%d Eintrag"
+        },
+        "49d62dc78d871d12eaf2a4c8b0efa88e": {
+            "text": "%d Eintr\u00e4ge"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderProcessorSpam.php",
+    "textdomain": "site--modules--formbuilder--formbuilderprocessorspam-php",
+    "translations": {
+        "a183e28c962d34205271a10a8a5e1639": {
+            "text": "Falsche Antwort"
+        },
+        "ed8687d3fa857268e4096eba0fed9fe2": {
+            "text": "Der Spam-Filter wurde ausgel\u00f6st"
+        },
+        "b7e8f2df9d4e8564de0bf15aa2361f8e": {
+            "text": "Formular\u00fcbermittlung kann nicht verarbeitet werden"
+        }
+    }
+}

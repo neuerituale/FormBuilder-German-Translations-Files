@@ -1,0 +1,1050 @@
+{
+    "file": "site\/modules\/FormBuilder\/ProcessFormBuilder.module",
+    "textdomain": "site--modules--formbuilder--processformbuilder-module",
+    "translations": {
+        "6450242531912981c3683cae88a32a66": {
+            "text": "Formulare"
+        },
+        "c3ffe5a9e8dd104bf471beaeefcc9a06": {
+            "text": "Bitte geben Sie einen g\u00fcltigen Lizenzschl\u00fcssel in den Modul-Einstellungen ein"
+        },
+        "b561d42071fccc598d09778d38c97366": {
+            "text": "Noch keine Formulare angelegt"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Speichern"
+        },
+        "89b60f18fa54bdb62e853b60567eb568": {
+            "text": "Formular gespeichert"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Beispiel:"
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Lade..."
+        },
+        "5c31ab108ed9a6271030237ed75cb3c1": {
+            "text": "Sie haben keinen Zugriff"
+        },
+        "b7c873319d93632b094c95edba4b042d": {
+            "text": "Unbekanntes Formular"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Kein"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(Standard)"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "K.A."
+        },
+        "2180b681cce32c3004c2bf8ea283106f": {
+            "text": "Das Modul ist noch nicht vollst\u00e4ndig konfiguriert."
+        },
+        "9a73a6d0ab868d820c61c15441eae7d0": {
+            "text": "Modul-Konfiguration"
+        },
+        "45949de1c2ecf085d1b1c9d450214fad": {
+            "text": "Neues Formular"
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Klicken und ziehen, um die Feldbreite anzupassen"
+        },
+        "a2438d2b8252f514d7eb6a2bed41d7c0": {
+            "text": "Pflichtfeld wenn: %s"
+        },
+        "b651efdb98a5d6bd2b3935d0c3f4a5e2": {
+            "text": "Pflichtfeld"
+        },
+        "7131bdf0443e46147efa8a3e037df678": {
+            "text": "Formular-Name"
+        },
+        "bc14b0a9c516310fc195a778937cc0a0": {
+            "text": "Eintr\u00e4ge"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Neu hinzuf\u00fcgen"
+        },
+        "38998ba3583a63813f0de165723a6e6d": {
+            "text": "Formular"
+        },
+        "4ff4bffdc31700dbbf63895aa33413cf": {
+            "text": "Eintr\u00e4ge"
+        },
+        "a54f9d1b02eb3772721d734bf9fabf77": {
+            "text": "Letzter Eintrag"
+        },
+        "fca33528602ccb227353d9679ff27824": {
+            "text": "Felder"
+        },
+        "a87b86e81991d9c34298c9f6a20b6d20": {
+            "text": "Einstellungen"
+        },
+        "20e1654c0eea53e3e9bce69f7004aee1": {
+            "text": "Eintr\u00e4ge"
+        },
+        "b809d187634858b88b83f42e20aa16c1": {
+            "text": "Felder"
+        },
+        "e01fad414b12e967f1757aae26275ba5": {
+            "text": "%s entfernt"
+        },
+        "1b74619be875b195d27e60c796046ade": {
+            "text": "Felder"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Zugriff"
+        },
+        "54c40cf3f2cd4b97f50d5858fa0c1efc": {
+            "text": "Vorschau"
+        },
+        "58e8bcb2d28283600d7dd6e2d46ff2cb": {
+            "text": "Einbettung"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Grundlagen"
+        },
+        "833f49865b7cff645c446f96e4c21538": {
+            "text": "Formulare"
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d Feld"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d Felder"
+        },
+        "507510662ce0453c588e342406b5cb2d": {
+            "text": "%d Eintrag"
+        },
+        "49d62dc78d871d12eaf2a4c8b0efa88e": {
+            "text": "%d Eintr\u00e4ge"
+        },
+        "aa46c66748b8b668195a53b7c2a3aa81": {
+            "text": "Bitte geh zur\u00fcck, um die Konfiguration zu \u00fcberpr\u00fcfen und zu speichern."
+        },
+        "92cef2a8a5cb15957866e64df2dd52bf": {
+            "text": "Neues Feld hinzuf\u00fcgen"
+        },
+        "be8a0066c70bf994ebadbf3bfa7d8780": {
+            "text": "Der Eingabetyp zum Erfassung der Daten."
+        },
+        "286c79b611d2998554f8dbb143ae953a": {
+            "text": "Der prim\u00e4re Beschriftungstext, den der Benutzer f\u00fcr dieses Feld sieht. Er wird \u00fcber der Feldeingabe angezeigt."
+        },
+        "582da1f36d5de980ef1600565d0b7ec9": {
+            "text": "Doppelklick, um den Status des Feldes auf \u201eerforderlich\u201c zu setzen"
+        },
+        "5dbbc5bf765fb1ab5c331d4f76e466fa": {
+            "text": "SPAM-Honeypot"
+        },
+        "5325facbe6d4fa09ad883fab58fd9e5b": {
+            "text": "Anzeigen wenn: %s"
+        },
+        "b74a2fb2098acb61da748a4f52057e6a": {
+            "text": "Da das Formular Seitenumbr\u00fcche enth\u00e4lt, muss auf der Registerkarte \u201eAktionen\u201c auch die Option \u201eEintr\u00e4ge in der Datenbank speichern\u201c aktiviert sein."
+        },
+        "9c7cafc94bba186b194f0d56104c068c": {
+            "text": "Vermeide es, dies f\u00fcr Formulare zu \u00e4ndern, die bereits in Gebrauch sind."
+        },
+        "58e55d954624a160d1c9cc88333dfbaa": {
+            "text": "Paginierung \/ Seitenumbr\u00fcche"
+        },
+        "6580cac7facaa250a7eef053ba5cbd90": {
+            "text": "\u00dcberschrift \u00fcber jeder Seitenzahl anzeigen?"
+        },
+        "839b310219ff3e103d12134d8f967dbc": {
+            "text": "Beim verwenden dieser Option, wird die \u00dcberschrift jedes Umbruchfelds als Bezeichnung angezeigt."
+        },
+        "edc78c771f954393ebe7bc30d66c983c": {
+            "text": "Es wird eine H2 oder H3 \u00dcberschrift empfohlen, es sei denn, eine andere \u00dcberschrift ist in der Struktur der Website sinnvoller."
+        },
+        "f046a764946d300413efd65519b2b32a": {
+            "text": "Bei der Verwendung von \u00dcberschriften lohnt es sich, ein Umbruchfeld als erstes Feld im Formular zu platzieren, damit die erste Seitenzahl auch eine \u00dcberschrift haben kann."
+        },
+        "891d6dcb05ef5e6def0af69396be2fa3": {
+            "text": "Wenn eine \u201eBeschreibung\u201c f\u00fcr ein beliebiges Seitenumbruchfeld eingeben wurde, wird dieses unabh\u00e4ngig von dieser Einstellung am Anfang der Paginierung angezeigt (unter der \u00dcberschrift, falls vorhanden)."
+        },
+        "3f89b5c30a334bb4a140a2059b7d4e92": {
+            "text": "Seitenauswahlfeld \u00fcber dem Formular anzeigen?"
+        },
+        "a455a823df9c3dadb90f0e558bfcdc75": {
+            "text": "Dies erm\u00f6glicht es den Nutzern, zu jeder Seite zu springen, indem sie diese direkt ausw\u00e4hlen."
+        },
+        "afa9be2fcade26f44143601d5f1556df": {
+            "text": "Wenn keine \u00dcberschrift oder Beschreibung f\u00fcr die Paginierung angezeigt wird, bewirken beide \u201eAnzeigen\u201c-Optionen das Gleiche."
+        },
+        "ddd8f3762cf4748e24786f138857c032": {
+            "text": "Vor der Paginierung \u00dcberschrift\/Beschreibung anzeigen"
+        },
+        "a0ef7ba09f0bc9d6fe99e221e20b3a7d": {
+            "text": "Nach der Paginierung \u00dcberschrift\/Beschreibung anzeigen"
+        },
+        "675798f01a9c9e2e8b3008bde99723bd": {
+            "text": "Speicherart Paginierung"
+        },
+        "e307db07b3975fef922a80d07455ee5e": {
+            "text": "Datenbank"
+        },
+        "074de7e7c226d5c60f8af14c20725352": {
+            "text": "Prim\u00e4r"
+        },
+        "0c7d6cf19426e01dcfa32434828ed266": {
+            "text": "Sekund\u00e4r"
+        },
+        "0521727bc2cea17905e963461d5a0f19": {
+            "text": "Terti\u00e4r"
+        },
+        "c217982fe63eec047710cfffdebe2218": {
+            "text": "Quatern\u00e4r"
+        },
+        "e2daa4eedfe99b3f138afb240ce004cb": {
+            "text": "Quin\u00e4r"
+        },
+        "d963f09d1b69f7be93ddcd8f541dca4f": {
+            "text": "Sen\u00e4r"
+        },
+        "59fc8da2b531883585f9f7cc7eaac165": {
+            "text": "Wie die Benutzereingaben aus jeder Paginierung gespeichert werden, bis das Formular zum Absenden bereit ist."
+        },
+        "e7acb323b67efc8a8b20883725602fb3": {
+            "text": "Die Option \u201eDatenbank\u201c wird empfohlen, wenn das Formular Datei-Upload-Felder enth\u00e4lt oder wenn der Benutzer m\u00f6glicherweise mehrere Sessions ben\u00f6tigt, um das Formular auszuf\u00fcllen."
+        },
+        "6ea8d187d705bf8387ccd69e92eb121f": {
+            "text": "Wenn die Option \u201eSession\u201c verwendet wird und sich die IP-Adresse eines Benutzers zwischen den einzelnen Seiten \u00e4ndert, sollte \u201esessionFingerprint\u201c in \/site\/config.php [deaktiviert](%s) werden."
+        },
+        "d63e446bf760659d7d3bcfec84b12007": {
+            "text": "Wenn die Option \u201eDatenbank\u201c verwendet wird, sollte das Kontrollk\u00e4stchen zur Deaktivierung der Sessionverfolgung\/CSRF aktivieren sein (siehe weiter unten)."
+        },
+        "4307a6550ec55baab879ad3a9bc77a0e": {
+            "text": "Nach wie vielen Tagen der Inaktivit\u00e4t werden Teileintr\u00e4ge aus der Datenbank gel\u00f6scht?"
+        },
+        "945ab6422707e0b73ab3861c8fd3b8cb": {
+            "text": "Unvollst\u00e4ndige Eintr\u00e4ge sind begonnene, aber noch nicht abgeschlossene Eintr\u00e4ge. Sie sollten nach einer gewissen Zeit gel\u00f6scht werden."
+        },
+        "3e34d60ea65a86f52c2d80a7fa2a2ead": {
+            "text": "Geben Sie einen Wert von 1 oder mehr Tagen an. Wird kein Wert oder 0 angegeben, wird von 14 Tagen ausgegangen."
+        },
+        "58fb1d2f69334c6db931c0c58f1ab216": {
+            "text": "Formular-Kn\u00f6pfe"
+        },
+        "1560d23215cecd9a33be7a7ebb91f8fb": {
+            "text": "Voreingestellte Feldwerte aus GET-Variablen?"
+        },
+        "9fdae987c54b51707efb149c792c8cd6": {
+            "text": "Wenn diese Option aktiviert ist, wird, wenn eine GET-Variable mit demselben Namen wie ein Formularfeld vorhanden ist, das Formularfeld mit dem Wert dieser Variable vorbelegt."
+        },
+        "e3847cf8759cf378d1919641ee9c3232": {
+            "text": "Sessionverfolgung und CSRF-Schutz deaktivieren?"
+        },
+        "2fe769a1ab5589a4215f7ca18dea78d6": {
+            "text": "Wenn diese Option aktiviert ist, akzeptiert Form Builder alle Eingaben, anstatt zu versuchen, sie dem Benutzer zuzuordnen, der das Formular aufgerufen hat. Am sichersten ist es, diese Option nicht zu aktivieren (Standardeinstellung), da sie dazu beitragen kann, Spam zu reduzieren und CSRF (Cross Site Request Forgery) zu verhindern. Wenn Sie sich nicht auf Sessions verlassen wollen, Ihre Formularausgabe zwischenspeichern oder \u00dcbermittlungen an ein anderes Verarbeitungsskript senden, sollten Sie dieses Kontrollk\u00e4stchen aktivieren, um die Sessionverfolgung zu deaktivieren."
+        },
+        "ea4fa6da8ae2c578b85898132bac9827": {
+            "text": "Erinnern Sie sich an die Eingabe von Formularfeldwerten bei jeder \u00c4nderung?"
+        },
+        "6194da508b4d29ccbc456cffe42fb48f": {
+            "text": "Wenn diese Option aktiviert ist, werden die Formularwerte bei jeder Feld\u00e4nderung in einem Cookie gespeichert, auch vor dem Absenden. Das bedeutet, dass der Benutzer das Formular verlassen kann und alles, was er eingegeben hat, noch vorhanden ist, wenn er zur\u00fcckkommt."
+        },
+        "43a52ed1482909d8a20132b22b7e9c09": {
+            "text": "Diese Einstellung sollte nur bei einseitigen (nicht paginierten) Formularen verwendet werden."
+        },
+        "121bb2c5b9c08c85c027094218833d2f": {
+            "text": "Ist dieses Formular ausschlie\u00dflich zur Aufnahme in andere Formulare bestimmt?"
+        },
+        "e2deb6d1eeaa8eab64a1cc6a89cbb73a": {
+            "text": "Ein Formular kann ein anderes einschlie\u00dfen, indem ein Feld vom Typ \"Formular\" hinzugef\u00fcgt wird."
+        },
+        "2e98d76950c9469a1a355ce33e76146a": {
+            "text": "Wenn der einzige Zweck dieses Formulars darin besteht, von einem anderen Formular aus eingebunden zu werden, kann durch Ankreuzen dieses K\u00e4stchens die Effizienz verbessert werden, indem einige unn\u00f6tige Funktionen deaktiviert werden."
+        },
+        "2c49bfce3d2304303755d16cadaca142": {
+            "text": "Wenn Sie diese Option verwenden, sollten Sie auch das Formular deaktivieren (siehe unten)."
+        },
+        "7c427b59a636ef3aa9758996ceb17926": {
+            "text": "Deaktivieren Sie die Darstellung und Verarbeitung dieses Formulars?"
+        },
+        "6f7c7e286b44b6d9e106e1530e7f6450": {
+            "text": "Ein deaktiviertes Formular wird nicht gerendert oder nimmt keine neuen Eintr\u00e4ge an, es sei denn, der Benutzer hat Zugriff auf die Bearbeitung des Formulars ODER es wird von einem anderen Formular \u00fcbernommen."
+        },
+        "c57dd3bb0c047f5a5a2a93ff53f9b711": {
+            "text": "Deaktivierte Formulare werden auch nicht in der Dropdown-Navigation angezeigt, wohl aber auf der Hauptseite der Formularliste."
+        },
+        "6fe99b8928e4d8dd9e1853a7de932717": {
+            "text": "Deaktivieren Sie die Verwendung von modalen Fenstern in FormBuilder admin?"
+        },
+        "5a417dcc486d62864ad9a806d922531c": {
+            "text": "Wenn aktiviert verzichtet der FormBuilder auf modale Fenster beim Bearbeiten von Feldern und an anderen Stellen."
+        },
+        "fa406a97373f01032b90ad2e4eb072a5": {
+            "text": "Formular l\u00f6schen"
+        },
+        "4f8dd5cbb7e215f548c6112b31c109e0": {
+            "text": "Achtung: Dadurch werden das Formular und alle Ergebnisse gel\u00f6scht."
+        },
+        "b397fad778281f68b2fc38ffba10f97a": {
+            "text": "Bitte konfiguriere eine oder mehrere der unten aufgef\u00fchrten Spamschutzma\u00dfnahmen."
+        },
+        "f04f328ec5a748ae0585bcebcdcc7fd6": {
+            "text": "Was passiert, wenn Spam entdeckt wird?"
+        },
+        "ac46e1c6797f20989ec265da4ddd10ec": {
+            "text": "Beachte, dass einige Spam-Filter diese Einstellung gegebenenfalls au\u00dfer Kraft setzen k\u00f6nnen. Der Turing-Test zum Beispiel benachrichtigt den Benutzer immer, wenn er den Test nicht besteht."
+        },
+        "15f7c179f37b2c830374529c1b4b4af2": {
+            "text": "Lass den Spam-Filter entscheiden"
+        },
+        "19c11aaa0fb95245cef4c490427e781b": {
+            "text": "Formular\u00fcbermittlung abbrechen, aber vorgeben, dass sie erfolgreich war"
+        },
+        "00846537d17356b128b753ecb4c8e3e3": {
+            "text": "Informiere den Benutzer, dass Spam entdeckt wurde, und gib die M\u00f6glichkeit, den Fehler zu beheben"
+        },
+        "4965715e21b360d3e712ef0679e99c16": {
+            "text": "Als Spam-Eintrag speichern, Erfolg zur\u00fcckgeben, aber alle anderen Aktionen \u00fcberspringen"
+        },
+        "33d598c6cc8b4d7f65ae182163699036": {
+            "text": "(erfordert die Aktion \u201eEintr\u00e4ge in der Datenbank speichern\u201c)"
+        },
+        "85473341e079a8d5cbc78d93a1b4eb47": {
+            "text": "Spam-Eintr\u00e4ge nach diesen Tagen aus der Datenbank l\u00f6schen?"
+        },
+        "a22ae43158067cbce1484f849e578a58": {
+            "text": "W\u00e4hle ein beliebiges Feld im Formular aus, das als Honeypot-Feld dienen soll. Wenn das Feld in eine Eintrag ausgef\u00fcllt ist, wird angenommen, dass es sich um Spam handelt, und das gesamte Formular wird stillschweigend verworfen, w\u00e4hrend es in der Ausgabe als erfolgreich erscheint. Honeypot-Felder werden automatisch mit CSS versteckt, so dass Benutzer sie nicht sehen k\u00f6nnen."
+        },
+        "00e68f3017dc34eae88e5b2eaa283829": {
+            "text": "Die Verwendung eines Honeypot-Feldes ist eine optionale Art der Spam-Abwehr. Bitten w\u00e4hle ein eigenes Feld, damit der Name und der Typ des Honeypot-Feldes in verschiedenen Formularen weniger vorhersehbar ist. Ein Textbereich oder ein Textfeld (in der N\u00e4he des oberen Teils des Formulars) ist f\u00fcr Honeypots vorzuziehen."
+        },
+        "e41589c8d0b0a67181747a31642307b8": {
+            "text": "Hinweis: Das Honeypot-Feld darf nicht ausgef\u00fcllt werden, stelle sicher, dass es keinen Anfangswert hat. W\u00e4hle au\u00dferdem keine Feldnamen, die von den automatischen Ausf\u00fcllfunktionen des Webbrowsers ausgef\u00fcllt werden k\u00f6nnten."
+        },
+        "e7835942ad1d0592f4a8d4a80c0acc64": {
+            "text": "Spam-Trigger-W\u00f6rter"
+        },
+        "404f3f2421f40cc47e36ae01b14f833a": {
+            "text": "Gib ein Wort pro Zeile ein, das ein Eintrag automatisch als Spam kennzeichnet. Gro\u00df- und Kleinschreibung wird nicht ber\u00fccksichtigt."
+        },
+        "0ea26c8efc823bcc4d6a7cdaf016569f": {
+            "text": "Standardm\u00e4\u00dfig wird ein teilweiser Abgleich f\u00fcr alle im Formular angegebenen Werte durchgef\u00fchrt."
+        },
+        "4c37e70a3172175049f190005b850f43": {
+            "text": "Die Hinweise enthalten Einzelheiten zur Verwendung von Operatoren f\u00fcr verschiedene Arten von \u00dcbereinstimmungen oder zur Verwendung von Feldnamen f\u00fcr \u00dcbereinstimmungen in bestimmten Feldern."
+        },
+        "8abb2f664b3d087d016630067726a8d3": {
+            "text": "Verwende Operatoren, um verschiedene Arten von \u00dcbereinstimmungen durchzuf\u00fchren:"
+        },
+        "386a0293c8370dccb5b6decdd0508166": {
+            "text": "F\u00fcr eine Teil\u00fcbereinstimmung des Wortes \u201eSpam\u201c an beliebiger Stelle verwende `%=spam` was z. B. auf \u201eSpam\u201c, \u201eAntispam\u201c und \u201eSpammer\u201c zutrifft."
+        },
+        "ccdc58876ff973484f702d659230cb29": {
+            "text": "Um das ganze Wort \u201eSpam\u201c zu finden (aber nicht \u201eAntispam\u201c oder \u201eSpammer\u201c), verwende `~=spam`."
+        },
+        "f4d702c38e917e3d57ed4f20a1009ac5": {
+            "text": "Um W\u00f6rter zu finden, die mit \u201espam\u201c beginnen, verwende `*=spam` (was auf \u201espam\u201c und \u201espammer\u201c passt, aber nicht auf \u201eantispam\u201c)."
+        },
+        "4d268dbeb35e1f83a23359552fb58b62": {
+            "text": "Um eine exakte \u00dcbereinstimmung f\u00fcr den gesamten Feldwert zu erzielen, verwende bitte `=spam`."
+        },
+        "5b92f34e0f17a0169d7489229d361d84": {
+            "text": "F\u00fcr einen Abgleich ab dem Anfang eines Feldwertes verwende `^=spam`."
+        },
+        "13e22ea144add2f80d77da3c9438353f": {
+            "text": "F\u00fcr einen Abgleich ab dem Ende eines Feldwertes verwende `$=spam`."
+        },
+        "417c91b3821fe7f01528a9eb5cbbc1ed": {
+            "text": "Bei einer NOT-Bedingung wird dem Operator `!` vorangestellt, d. h. `!~=spam` passt nur, wenn ein Feldwert nicht das ganze Wort \u201espam\u201c enth\u00e4lt."
+        },
+        "7a3c4da245bca9d0db6457938e5c594e": {
+            "text": "Wird kein Operator angegeben, wird der Operator `%=` Teil\u00fcbereinstimmung angenommen."
+        },
+        "7ea742fe5b10319d601027c9a7c0ab03": {
+            "text": "Feldname vorangestellt, um die \u00dcbereinstimmung auf ein bestimmtes Feld zu beschr\u00e4nken:"
+        },
+        "f3ff3c935f78d320dfb5963f4d9f71f9": {
+            "text": "Um den Wert nur in einem bestimmten Feld (und nicht in allen Feldern) abzugleichen, geben Sie den Feldnamen, einen Operator und den abzugleichenden Wert an."
+        },
+        "afd2ae441f19c4bd084099f261ea5efc": {
+            "text": "`first_name%=spam` ergibt eine Teil\u00fcbereinstimmung mit \u201espam\u201c an beliebiger Stelle im Feld \u201efirst_name\u201c."
+        },
+        "de92f8466dac4717f016044b78c5a8f9": {
+            "text": "`comments~=spam` entspricht dem vollst\u00e4ndigen Wort \u201espam\u201c an beliebiger Stelle im Feld \u201ecomments\u201c."
+        },
+        "005a21c8206eacfc9a6037db01316fe2": {
+            "text": "`email=spammer@spam.com` passt nur, wenn der Wert des E-Mail-Feldes genau mit dem angegebenen Wert \u00fcbereinstimmt."
+        },
+        "a57e397304477db7c58df9b54a6367a9": {
+            "text": "`email$=spam.com` passt nur, wenn der Wert des E-Mail-Feldes mit \u201espam.com\u201c endet."
+        },
+        "41504a7015570245fcd629c520a40642": {
+            "text": "Turing-Test"
+        },
+        "e2bd5f99f4c435c0c7b944ad758bc291": {
+            "text": "Um eine Formulareingabe zu best\u00e4tigen, f\u00fcge ein zus\u00e4tzliches Feld hinzu mit einer einfachen Frage wie \u201eWas ergibt 2 + 1?\u201c. Entscheide dann basierend auf der korrekten Antwort, ob das Formular akzeptiert oder abgelehnt werden soll. Verwende das Format \u201eFeldname=Antwort\u201c. Du kannst mehrere Bedingungen angeben, jede in einer eigenen Zeile."
+        },
+        "41e457555c4323e97f8585435d798b82": {
+            "text": "mein_test=3"
+        },
+        "1f22b4bbf3656a3f1380948b7e5f16af": {
+            "text": "Akismet ist ein Abonnementdienst zur \u00dcberwachung von Spam in Kommentaren und Formularen. Um den Dienst nutzen zu k\u00f6nnen, gleiche einige Felder mit den von Akismet erwarteten Feldern ab, die auf Blog-Kommentaren basieren."
+        },
+        "d158fd676c9347d60eb22d288fe4e9c4": {
+            "text": "Damit Akismet aktiviert werden kann, muss f\u00fcr jedes der oben genannten Elemente ein Feld ausgew\u00e4hlt werden."
+        },
+        "80b4f3d842a9ff8f29552a0568ca9b75": {
+            "text": "Feld mit Personen %s"
+        },
+        "8acca42690b6f238d9d5bcf63b56a820": {
+            "text": "Die Funktion ist nicht verf\u00fcgbar, da kein Akismet-API-Schl\u00fcssel definiert wurde. Weitere Informationen finden sich in den Einstellungen des Form Builder-Moduls."
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktionen"
+        },
+        "635a777adcf48d87c40ce5ce9717c8e8": {
+            "text": "Konfigurieren >"
+        },
+        "9dd3f1f1b2aff09a604edd47a007a289": {
+            "text": "Spam filtern"
+        },
+        "ff6a612ad742481b268991060c763a02": {
+            "text": "Eintr\u00e4ge in der Datenbank speichern"
+        },
+        "6d5f4392153243b4b79221e151440a7d": {
+            "text": "Autoresponder an Einreichenden senden"
+        },
+        "953ebc5932e35a94e0736fbbe99596a5": {
+            "text": "Kopie an eine URL oder einen Drittanbieterdienst senden"
+        },
+        "e5827df91a5593ff2ca1f5aa9aee9c18": {
+            "text": "Speichern zu ProcessWire-Seiten"
+        },
+        "4ad5a1a2b65d5142e7ccb25d1564c1db": {
+            "text": "Senden an URL (FormBuilder Verarbeitung wird umgangen)"
+        },
+        "c7cf3214499e64b133e3818fbf5e83ad": {
+            "text": "Neue Zeile in Google Sheets-Tabelle einf\u00fcgen"
+        },
+        "7329d2e16176035f080faaff0a36a34c": {
+            "text": "W\u00e4hle eine oder mehrere Formularaktionen"
+        },
+        "fde48a77f4462cb298d56faaf163d28a": {
+            "text": "F\u00fcr jede Aktion k\u00f6nnen weitere Einstellungen erforderlich sein. Diese werden nach Aktivierung unten angezeigt."
+        },
+        "0e58c539cc44685247ff69e2ad944860": {
+            "text": "Felder, die in der Liste der Eintr\u00e4ge angezeigt werden"
+        },
+        "8ded2fb0a6032c1cf66d13d35c46a3c6": {
+            "text": "Welche Felder sollen in der Liste der Eintr\u00e4ge angezeigt werden? Manchmal ist es sinnvoll, grundlegende Identifikationsfelder wie Name, Ort usw. einzuf\u00fcgen."
+        },
+        "eec0c2ef94e208ed32a5537a85a3eee1": {
+            "text": "Nach wie vielen Tagen werden die Eintr\u00e4ge automatisch gel\u00f6scht?"
+        },
+        "0af72cabece5a08a6a3d53c9aa8b9576": {
+            "text": "Wenn die Daten nicht unbegrenzt auf dem Server verbleiben sollen, kann FormBuilder sie nach einer bestimmten Anzahl von Tagen automatisch zu l\u00f6schen."
+        },
+        "6715ed94a4daf4a1cb906102c3d0401b": {
+            "text": "0 = Niemals automatisch l\u00f6schen. Diese Wartung wird einmal t\u00e4glich durchgef\u00fchrt. Um sie jetzt auszuf\u00fchren, verwende das Kontrollk\u00e4stchen unten."
+        },
+        "b43324f532cd58e459211550c1aed191": {
+            "text": "T\u00e4gliche Wartung jetzt durchf\u00fchren"
+        },
+        "c02f751f6f7ac837c548d46b7af71091": {
+            "text": "Um den E-Mail-Text anzupassen, kopiere das Template %1$s nach %2$s (erstelle das Verzeichnis, falls es nicht vorhanden ist) und \u00e4ndere es nach Wunsch ab."
+        },
+        "a25050007f6b99864bb4bf1e20f93236": {
+            "text": "Bleibt er leer, wird \"%s\" verwendet."
+        },
+        "9a5593882d88f5230933a1f03f455a13": {
+            "text": "E-Mail-Adressen, an die Formularergebnisse gesendet werden sollen"
+        },
+        "6a0b2efc39674091de4b3bd2ad72924b": {
+            "text": "Um E-Mails an Personen zu senden, gib die E-Mail-Adressen unten ein (eine pro Zeile). E-Mails k\u00f6nnen basierend auf dem Wert eines Feldes gesendet werden. Verwende dazu folgende Syntax: \u201efeld=wert? deine@email.com\u201c (siehe Beispiele unten)."
+        },
+        "ee59ee00c16e09d151891e29d15400da": {
+            "text": "E-Mail von Adresse"
+        },
+        "329116dc387b3f178dc6804fa23097e4": {
+            "text": "Hier kann jede beliebige E-Mail-Adresse verwend werden. Es ist jedoch empfehlenswert, eine zugelassene Absenderadresse zu verwenden, um sicherzustellen, dass die E-Mails nicht f\u00e4lschlicherweise als Spam erkannt werden."
+        },
+        "f31452c1eab45581b70eb61e91b27ab5": {
+            "text": "E-Mail-Antwort-Anschrift"
+        },
+        "8e4f0622ae37ff737f6624b5e9130e6e": {
+            "text": "Verwende eine beliebige E-Mail-Adresse. Eine zugelassene Absenderadresse wird empfohlen, um Spam-Erkennung zu vermeiden."
+        },
+        "9b86da2af8fff4101bccd2e60f39e1b0": {
+            "text": "Formular Einreichung"
+        },
+        "c46dd9d40d6c9f44c6e5b157b47c98df": {
+            "text": "Betreffzeile der E-Mail"
+        },
+        "52d6a76c880b19ce606a15b5693f9d54": {
+            "text": "Der Betreff kann optional die Werte aller *erforderlichen* Formularfelder enthalten, verwende dazu diese Platzhalter `{field_name}`."
+        },
+        "b70ebd1c4cbcbb5647f93bf33536228c": {
+            "text": "ID des Formulareintrags an den E-Mail-Betreff anh\u00e4ngen?"
+        },
+        "980a2120aabe307ce6ddba5b2a2a613b": {
+            "text": "So wird verhindert, dass E-Mails von Google Mail und anderen E-Mail-Anbietern gruppiert werden (Threading)."
+        },
+        "30bca683c6cdb60c60aceec416decb6d": {
+            "text": "E-Mail body"
+        },
+        "e81c4e4f2b7b93b481e13a8553c2ae1b": {
+            "text": "oder"
+        },
+        "336d0e3f774d7ba6007c45fd602f0754": {
+            "text": "Wie werden hochgeladenen Dateien behandelt?"
+        },
+        "d032cc0f99f9a8dfd188801725719551": {
+            "text": "Falls vom verwendeten WireMail-Modul unterst\u00fctzt."
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschreibung"
+        },
+        "f4c6f851b00d5518bf888815de279aba": {
+            "text": "Hinweise"
+        },
+        "4ec2fa1aa32d93e6fd11a255fc3507bc": {
+            "text": "Speichern + Beenden"
+        },
+        "766d3bef806c454db0b5dc73e60f55f0": {
+            "text": "Typ"
+        },
+        "8829c81299c0d0007a8115a9ebec1afc": {
+            "text": "Http-Links zu Dateien in E-Mails versenden"
+        },
+        "f026f23418bdee1b6e339b33e93752ff": {
+            "text": "Dateianh\u00e4nge an E-Mail anh\u00e4ngen"
+        },
+        "ae6664d34d38f2efabb294e5ee83efe3": {
+            "text": "Felder, die eine E-Mail-Adresse enthalten und an die der Autoresponder senden soll"
+        },
+        "119b290875806e0bec621c0289ec2e35": {
+            "text": "Absender E-Mail-Adresse"
+        },
+        "4d93e46f67b57c9d3bced682a326fbe8": {
+            "text": "Gib die E-Mail-Adresse ein, von der die Autoresponder-E-Mail gesendet werden soll (\u201efrom\u201c)."
+        },
+        "1e90fac672e7eb382664cf61f8de5081": {
+            "text": "Absendername"
+        },
+        "02f4600dab73c144b955c329e136d46a": {
+            "text": "Name des Unternehmens oder der Person, von der die E-Mail stammen soll (\u201efrom\u201c)."
+        },
+        "79b1b40862a8b5fec4daad76cb1b8e53": {
+            "text": "Antwort-E-Mail-Adresse"
+        },
+        "9a175787240ed01561ee60698afefa27": {
+            "text": "Die Adresse, an die geantwortet werden soll (\u201ereply-to\u201c)."
+        },
+        "678e7dda894d38dda457329115192027": {
+            "text": "Betreffzeile der Auto-Responder-E-Mail"
+        },
+        "a13bd25198599134c218e399313bd8f3": {
+            "text": "Auto-Responder-E-Mail"
+        },
+        "5800740e8aa44abe84cd41d7f9f93bf9": {
+            "text": "Um den Wert eines Formularfeldes in dieser E-Mail auszugeben, gib den Feldnamen in [Klammern] ein. Zum Beispiel: [vor_name]"
+        },
+        "e7cbe91c7d856ca018a499c978a24fda": {
+            "text": "Die \u00fcbermittelten Formulardaten k\u00f6nnen an andere Dienste weitergeleitet und optional angepasst werden."
+        },
+        "589565698113d1d06e449ffdb107d876": {
+            "text": "Ziel-URL"
+        },
+        "60ebd980becc3e7d1eec713c9711389a": {
+            "text": "Um das Formular an eine weitere URL zu senden, gib diese hier an. Nach dem \u201eSpeichern\u201c werden zus\u00e4tzliche Felder angezeigt."
+        },
+        "24a5ef25f0ad19658a992f32df6f656b": {
+            "text": "Felder hinzuf\u00fcgen"
+        },
+        "1d3ab330d094bb8a1ff45b33e0c03b91": {
+            "text": "Falls Felder hinzugef\u00fcgt werden sollen, gib bitte jedes Feld in einer eigenen Zeile in dieser Syntax ein: [feldname]=[wert]"
+        },
+        "6b3e2849cefc03ca6887fd58e1bf5f5d": {
+            "text": "Felder entfernen"
+        },
+        "bc1419b6f330eca9cd0a0ef0298cfc28": {
+            "text": "Falls Felder entfernt werden sollen, gib bitte die Namen dieser Felder unten ein (1 pro Zeile)."
+        },
+        "29e60a7a07a11a469cd2a0aebe9af992": {
+            "text": "Felder umbenennen"
+        },
+        "0a35511a51eb8490179aa8208a71b884": {
+            "text": "F\u00fcr die \u00c4nderung von Feldnamen gib bitte jeden Feldnamen in einer eigenen Zeile im Format [feldname]=[neuer_feldname] an"
+        },
+        "ab42cda2655f5b79125fa9602ecff9d6": {
+            "text": "\u00c4ndere das Standardverhalten, wie das Formular gesendet wird."
+        },
+        "8dd1494633d4bf06d8d4a078cf4659ed": {
+            "text": "URL"
+        },
+        "cd0d8d826f156bb4828ebc438d92fe19": {
+            "text": "Gib die URL an, an die das Formular gesendet werden soll. Verwende \u201e.\/\u201c oder lasse das Feld leer, um es durch FormBuilder zu verarbeiten."
+        },
+        "c1dfae1fec54e406d9ab6fab5199dac1": {
+            "text": "Methode"
+        },
+        "8977e1864e69e8348069e4555c39ec3e": {
+            "text": "Die POST-Methode ist erforderlich, um die Ergebnisse durch FormBuilder zu verarbeiten. Wenn das Formular an einen anderen Ort \u00fcbermittelt werden soll, steht die GET-Methode zur Verf\u00fcgung, falls erforderlich."
+        },
+        "4c6f18f42e8b8679271e303e2db576ae": {
+            "text": "Name des Fenster"
+        },
+        "f7752bf023503a21a6fb18ba89ddaa7a": {
+            "text": "F\u00fcr das Standardverhalten leer lassen. Beispiele sind \u201e_blank\u201c, \u201e_parent\u201c, \u201e_top\u201c oder der Name eines Frames (\u201etarget\u201c)."
+        },
+        "37ab67c7823bfb6a16f801dd9deffce5": {
+            "text": "Das GoogleClientAPI-Modul ist installiert."
+        },
+        "aacc4be2e3d7b297808ffffd71803979": {
+            "text": "Das GoogleClientAPI-Modul ist derzeit NICHT installiert, daher ist diese Funktion nicht verf\u00fcgbar."
+        },
+        "4e2b446b3d06d74a44f6dfe7d4f46305": {
+            "text": "Google Sheets-Tabelle"
+        },
+        "3aff1ba7e2282dd5d305248512ee8f12": {
+            "text": "Gib die URL einer bestehenden Google Sheets-Tabelle ein oder den Titel einer neuen Tabelle."
+        },
+        "723ed8ab0a85c1d56f0c573b37cacff9": {
+            "text": "Erstelle eine neue Tabelle:"
+        },
+        "2ed3dcbc23f0959dd7fc12ec2d082d08": {
+            "text": "Gib den Titel f\u00fcr die neue Tabelle ein, es wird versucht, sie jetzt zu erstellen und die URL einzutragen."
+        },
+        "522c2be84da58a85dfc13424f8febf55": {
+            "text": "Eine bestehende Tabelle verwenden:"
+        },
+        "462e725ebd6eae1bef2294713971955b": {
+            "text": "\u00d6ffne die Google Sheets-Tabelle, zu der Zeilen aus den Eintr\u00e4gen hinzugef\u00fcgt werden sollen."
+        },
+        "effc0a50fddc7f6db52db980cd35f847": {
+            "text": "Stelle sicher, dass das richtige Tabellenblatt ausgew\u00e4hlt ist."
+        },
+        "be1679eb72cbdf661be8decd0dba1608": {
+            "text": "Kopiere die URL in der Adressleiste und f\u00fcge sie hier ein."
+        },
+        "16e663b68acd96fc5eab5b2b105f5b59": {
+            "text": "Die URL der Kalkulationstabelle sollte \u00e4hnlich wie das folgende Beispiel aussehen:"
+        },
+        "5d4fd57e0470bccbbd14fd4bc38c8b33": {
+            "text": "In der obigen URL sind die unterstrichenen Teile die: 1) Tabellen-ID und 2) optional die Tabellenblatt-ID (auch als gid bekannt)."
+        },
+        "8b811ed64c6d24398f5c32a4438552b4": {
+            "text": "Auszuf\u00fcllende Felder und Reihenfolge"
+        },
+        "1ebaca2191539cc2df1f3a4d8c1e051e": {
+            "text": "Die ausgew\u00e4hlten Felder, werden in eine neue Zeile der Tabelle eingetragen."
+        },
+        "9cdbf789bfd8f6aa1c70b84c6db00566": {
+            "text": "Ordne die Felder in der gew\u00fcnschten Spaltenreihenfolge an."
+        },
+        "61a0c298e0aee28bfe3020aac4187a8d": {
+            "text": "Um leere Spalten zu erstellen, w\u00e4hle eine der \u201eLeer\u201c-Platzhalter aus."
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Felder"
+        },
+        "27167b743b97f3867f7527b5a89ca9b0": {
+            "text": "Datum\/Uhrzeit des Eintrags (ISO-8601)"
+        },
+        "e5d292b1b626606dc110df7d4a0d7005": {
+            "text": "Gespeicherte Eintrags-ID"
+        },
+        "1ce581335d80036a507c0dbd73860494": {
+            "text": "Gespeicherte Seiten-ID"
+        },
+        "00cd1fa2b0ea9e326a54547a0a0e2967": {
+            "text": "Formularname"
+        },
+        "12cb401e3a068898222575c6a5ef5ece": {
+            "text": "Seitetitel"
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "Seitename"
+        },
+        "a016a73836f5149a1fe5d2817d1de4bc": {
+            "text": "URL der Seite"
+        },
+        "30722aa4ee66bd5b06a4abe892c9e963": {
+            "text": "Seiten-ID"
+        },
+        "1edcdad89b3a2245d759a169da1bf5a3": {
+            "text": "Benutzer-ID"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "Benutzername"
+        },
+        "3773e38adedab317645609a01871ad56": {
+            "text": "IP-Adresse des Benutzers"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[leer]"
+        },
+        "ce355f441cb48bad7fea62a80950db02": {
+            "text": "Optionales Feld zum Speichern von Google Sheets-Antworten"
+        },
+        "89fdf021d05dabf01287c086ff09a5a3": {
+            "text": "Dabei kann es sich um ein beliebiges Textfeld (versteckt oder nicht) handeln, das den Bereich der in der Tabelle aktualisierten Zeilen speichert."
+        },
+        "f00c74ff8c7dcadb46f3344db2977c02": {
+            "text": "Google Sheets Tabelle testen"
+        },
+        "6d094fc1224bf19f29722f59363b4ab3": {
+            "text": "Zeile mit Spaltenbeschriftungen an Tabelle anh\u00e4ngen"
+        },
+        "8492fba7740dfbd0b6ebbb6d4e2fa70d": {
+            "text": "Aktivieren, um zu testen, ob Feld-\/Spaltenbeschriftungen an deine Tabelle angeh\u00e4ngt werden."
+        },
+        "35af20ea67a66edd65aa93523b6a8013": {
+            "text": "Dies ist eine gute M\u00f6glichkeit, die Verbindung zur Tabellenkalkulation zu testen und sicherzustellen, dass sie funktioniert."
+        },
+        "c9f8c22a39ed47b44f61d454638c2aff": {
+            "text": "Damit wird sichergestellt, dass die Spalten in der richtigen Reihenfolge zu den vorhandenen Spalten\u00fcberschriften angeordnet sind."
+        },
+        "c71c740aba586de9fa045107f3ab51d7": {
+            "text": "Bei neuen Tabellen ist dies eine gute M\u00f6glichkeit, die erste Zeile (f\u00fcr Spalten\u00fcberschriften) hinzuzuf\u00fcgen."
+        },
+        "b1c7ce55737a94cd3da845d31c5159b3": {
+            "text": "Speichere und kehre dann hierher zur\u00fcck, um diese Aktion zu konfigurieren."
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Ausgabe"
+        },
+        "78a42e8e3b0997970a9cfb90aa07ad42": {
+            "text": "W\u00e4hle den gew\u00fcnschten Ausgaberahmen aus."
+        },
+        "fbd7174dbd3cd64c7fdd64b0a4a5164a": {
+            "text": "Speichere, da m\u00f6glicherweise weitere framework spezifische Konfigurationen unten angezeigt werden."
+        },
+        "0534c3d2dfaaeb27a2bad61ed6798502": {
+            "text": "(veraltet)"
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Standard"
+        },
+        "972e73b7a882d0802a4e3a16946a2f94": {
+            "text": "Grundlegend"
+        },
+        "e28e1e933d7a29aba134a1f0245b37a9": {
+            "text": "Dies wirkt sich auf das Erscheinungsbild von jQuery UI-Widgets wie AsmSelect und Datum\/Zeit-Datumsauswahlen aus. Wenn keine jQuery UI-Widgets verwendet werden, wird es nicht geladen."
+        },
+        "5df2cb3ef1c40a5969d85af84e876bfc": {
+            "text": "Mobiler Breakpoint"
+        },
+        "6f4edd5b6b04944eda2f3ba08cc63d04": {
+            "text": "Unterhalb dieser Fensterbreite werden mehrspaltige Formulare (gestapelt oder horizontal) auf eine Spalte reduziert. \u00dcberschreibt alle framework spezifische Breakpoint-Einstellungen"
+        },
+        "b8c2aeef95076c623554cf8b4411b05e": {
+            "text": "0=Standard (ca. bei 480px). 1=kein mobiler Breakpoint. Gib eine beliebige Gr\u00f6\u00dfe an, optional einschlie\u00dflich der Einheit (d. h. px, em, rem, pt usw.). Wenn keine Einheit angegeben wird, wird \u201epx\u201c angenommen."
+        },
+        "a5cf4df61e0599f7ee343b3c872fa623": {
+            "text": "Beispiel: 480px"
+        },
+        "22b4848c6d07fc8e9c96a7f53a567e99": {
+            "text": "Beschriftung des \u201e%s\u201c-Button"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "Senden"
+        },
+        "6fe0857b23b5aea255630114042232bb": {
+            "text": "Leer lassen f\u00fcr automatische Beschriftung."
+        },
+        "10ac3d04253ef7e1ddc73e6091c0cd55": {
+            "text": "Weiter"
+        },
+        "0557fa923dcee4d0f86b1409f5c2167f": {
+            "text": "Zur\u00fcck"
+        },
+        "d03686ec7658df1aa2e92ec8027a55f7": {
+            "text": "Erfolgstext oder Weiterleitung"
+        },
+        "03808d34d8cc906010f95cfc45c99c1a": {
+            "text": "1. F\u00fcr eine Erfolgsmeldung: Bitte den gew\u00fcnschten Text eingeben."
+        },
+        "b86772375a4fd17a75da63ecad6d8f78": {
+            "text": "Um Markdown oder HTML zu verwenden, beginne das Feld mit \u201emarkdown:\u201c oder \u201ehtml:\u201c."
+        },
+        "8878f4160c0e54adf0be1983879a237e": {
+            "text": "2. F\u00fcr eine Weiterleitung, gibt den Pfad oder die ID der Seite an."
+        },
+        "00684595e60bca7f75996c3baf0aeb84": {
+            "text": "3. Um Text aus einem Feld auf einer anderen Seite anzuzeigen, verwendete folgende Syntax: \/pfad\/zu\/seite\/:feldname oder id:feldname"
+        },
+        "847da77695c4c553c0982fe1eb19a45a": {
+            "text": "4. F\u00fcr eine URL-Weiterleitung, gib die vollst\u00e4ndige URL mit dem Pr\u00e4fix http:\/\/ oder https:\/\/ an."
+        },
+        "5a5933bf1becf9eedace9b1e6c5f1193": {
+            "text": "Vielen Dank, Das Formular wurde verschickt."
+        },
+        "3062ab239413796e62eef4b1506c3588": {
+            "text": "Bei Verwendung der Einbettungsmethode D werden die Umleitungen in der benutzerdefinierten Formulardatei definiert."
+        },
+        "c02034b1cff4fde56cb3eadc40466f8f": {
+            "text": "Fehlermeldung"
+        },
+        "ad80226b81ef9d5affbb4d76719e9962": {
+            "text": "Bitte gib den Text ein, der bei einem \u00dcbertragungsfehler angezeigt werden soll. Dieser Text wird dem Formular als Fehlermeldungen vorangestellt."
+        },
+        "5674b48e3a208727c8a2290c744e487b": {
+            "text": "Ein oder mehrere Fehler haben das Absenden des Formulars verhindert. Bitte korrigiere diese und versuche es erneut."
+        },
+        "ec2fd1d4b88e244960104512b85ab31c": {
+            "text": "Seitentemplate"
+        },
+        "27fdf67986a15a2d80206b123ec62b1d": {
+            "text": "W\u00e4hle ein Template aus, das f\u00fcr Seiten verwendet werden soll, die aus Eintr\u00e4gen erstellt werden."
+        },
+        "362b04e77e67ab6470b944ccd7109ec6": {
+            "text": "Nach der Auswahl eines Template, klicke auf \u201eSpeichern\u201c und kehre dann hierher zur\u00fcck, um weitere Optionen zu sehen."
+        },
+        "ebe26035add58b6081dadae34d90164d": {
+            "text": "Eltern-Seite"
+        },
+        "c6ef4c6aab04a9eac0ae5d8a6aa13ec8": {
+            "text": "Eintr\u00e4ge werden als Kind-Seiten diese Seite angelegt."
+        },
+        "96b274acc6b27d6bcaf2535e1f704f7b": {
+            "text": "Formularfelder zu Seitenfeldern"
+        },
+        "7d21669df44990910e1403674dd764ff": {
+            "text": "W\u00e4hle die Formularfelder f\u00fcr die einzelnen Seitenfelder aus. Alle Angaben sind optional."
+        },
+        "fccdc9e36ca273e2317cd2f75158bb65": {
+            "text": "Form Builder Feld"
+        },
+        "028123a012fe09885f0d50839bf89855": {
+            "text": "Seiten-Feld"
+        },
+        "96197e0decf52aecb387f82e32b04142": {
+            "text": "Wenn leer, wird er aus dem Titel generiert."
+        },
+        "46576dd3e37514eba21e2d2ed15a0a1b": {
+            "text": "Wenn leer, wird ein Zeitstempel verwendet."
+        },
+        "33564c601947358c210a499835285681": {
+            "text": "Warnung: Die direkte Ver\u00f6ffentlichung von Seiten, die mit Feldern aus Eintr\u00e4gen gef\u00fcllt sind, kann riskant sein. Bitte sei \u00e4u\u00dferst vorsichtig. Alle Ausgaben sollten ordnungsgem\u00e4\u00df entit\u00e4tskodiert sein, wof\u00fcr du selbst verantwortlich bist. Bei Sicherheitsfragen oder Hilfebedarf kannst du einen Beitrag im Form Builder-Supportforum erstellen."
+        },
+        "9ae4acdedda7d3b42a39961e66785b95": {
+            "text": "W\u00e4hle bitte eine Eltern-Seite und ein Template aus. Speichere die Auswahl und kehre dann hierher zur\u00fcck."
+        },
+        "271c6ea32803d7c5f8f1103993c43b48": {
+            "text": "Zus\u00e4tzliche Formularfelder zu Seitenfelder (oder Unterfelder)"
+        },
+        "09f5e73fef61c9be1291fc417aae1ecb": {
+            "text": "Gib hier zus\u00e4tzliche Formular-zu-Seiten-Felder ein, die oben nicht aufgef\u00fchrt sind."
+        },
+        "f4c728eff6ead56baae9877fb1ed9573": {
+            "text": "Gib pro Zeile einen Feldnamen im Format `form_field=page_field` oder `form_field=page_field.subfield` oder `form_field.subfield=page_field.subfield` usw. ein."
+        },
+        "f240c8f41c45f397962326cf70333ca1": {
+            "text": "Seitenstatus"
+        },
+        "e4e941f3053ba7bc03491ac8ad3bb972": {
+            "text": "Manuelles speichern in Seiten \u00fcber die Liste der Eintr\u00e4ge (empfohlen)"
+        },
+        "becdddb310cc157ab74c81f3b3060b2b": {
+            "text": "Eintr\u00e4ge zu Seiten speichern (unver\u00f6ffentlicht)"
+        },
+        "c82b37ea3a88093ba356055f23440add": {
+            "text": "Eintr\u00e4ge zu Seiten speichern (versteckt + ver\u00f6ffentlicht)*"
+        },
+        "4cf90da445a0ef5c0067f2096742e892": {
+            "text": "Eintr\u00e4ge zu Seiten speichern (ver\u00f6ffentlicht)*"
+        },
+        "213c06a9d584cd53d9e46bc0c3d81632": {
+            "text": "*Beachte, dass diese Optionen potenziell gef\u00e4hrlich sein k\u00f6nnen, da sie Eingaben auf einer \u00fcber eine URL zug\u00e4nglichen Seite ver\u00f6ffentlichen, es sei denn, die Template-Berechtigungen verweigern den Zugriff. Es wird empfohlen, alle Eintr\u00e4ge zu \u00fcberpr\u00fcfen, bevor sie ver\u00f6ffentlicht werden. Die erste Option ist daher die sicherste."
+        },
+        "e5ed733572fc0884f2747da997ec9c80": {
+            "text": "Rollen, die dieses Formular anzeigen und abschicken k\u00f6nnen"
+        },
+        "b95ec5bb667fd8e7677fbca9d2b52514": {
+            "text": "Rollen, die das Formular in der Verwaltung sehen k\u00f6nnen"
+        },
+        "7699145eeafb4f906cdf64b364d81279": {
+            "text": "Rollen, die dieses Formular bearbeiten k\u00f6nnen"
+        },
+        "7b537711012c56e48beae526f42138b5": {
+            "text": "Rollen, die dieses Formular l\u00f6schen k\u00f6nnen"
+        },
+        "8bbe841dea6a5a06289e64d41b23e1e0": {
+            "text": "Rollen, die Eintr\u00e4ge f\u00fcr dieses Formular anzeigen und auflisten k\u00f6nnen"
+        },
+        "03de2daec5e72e439facc9a0935dd833": {
+            "text": "Rollen, die Eintr\u00e4ge f\u00fcr dieses Formular bearbeiten k\u00f6nnen"
+        },
+        "541120ff4284de0e5208a785475ef9a0": {
+            "text": "Rollen, die Eintr\u00e4ge f\u00fcr dieses Formular l\u00f6schen k\u00f6nnen"
+        },
+        "15dcb769125d63cee14679f28d06f007": {
+            "text": "Rollen, die Eintr\u00e4ge an Seiten senden k\u00f6nnen, falls zutreffend"
+        },
+        "39bf884e8331242f6c3ca0a9a020d5fe": {
+            "text": "Rollen, die einen Eintrag erneut senden k\u00f6nnen, falls zutreffend"
+        },
+        "8668a55df3ff142ad0cd03ed2073f32d": {
+            "text": "*Alle anderen Rollen erhalten ebenfalls Zugriff, wenn die Option Gast aktiviert ist."
+        },
+        "e093c839a3cde13daf704d26ff0d6a31": {
+            "text": "Keine Rollen mit FormBuilder-Berechtigung definiert"
+        },
+        "f4d425a911dc83e9c35f781b9f062582": {
+            "text": "Wie wird dieses Formular auf der Website eingebettet?"
+        },
+        "446c4d18250828a39b6aee5a956518ab": {
+            "text": "Daten importieren"
+        },
+        "5526710fd99aa11a92c8117bc887e236": {
+            "text": "Um Daten aus einem anderen Formular zu importieren, f\u00fcge dessen JSON-Exportdaten hier ein und klicke auf die Schaltfl\u00e4che \u201eSpeichern\u201c."
+        },
+        "80d6f94eb8e2113f4c0bafd880f2fe78": {
+            "text": "Im n\u00e4chsten Schritt k\u00f6nnen die zu importierenden Felder gew\u00e4hlt werden."
+        },
+        "5447a43302674567d08b16af7466dc24": {
+            "text": "Weiter zum n\u00e4chsten Schritt"
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Daten exportieren"
+        },
+        "d168833ea7cc11aff19955b027e6c5b3": {
+            "text": "Klicke in dieses Feld und kopiere den Text. Beim Erstellen eines neues Formulars k\u00f6nnen diese Daten in das Feld \u201eDaten importieren\u201c eingef\u00fcgt werden."
+        },
+        "c144303d748fd387f665eac2fdf495a1": {
+            "text": "Um den Export herunterzuladen (statt zu kopieren), klicke auf den Button unten."
+        },
+        "116df7cbcff4b80248a00294aa5fba37": {
+            "text": "Exportdatei herunterladen"
+        },
+        "d9c5bf47a305b6e8596c433baf146807": {
+            "text": "Beliebige Kombination von Buchstaben (a-z), Zahlen (0-9), Bindestrichen oder Unterstrichen."
+        },
+        "cfcc80c23a7f7dc4a4139063a385ea04": {
+            "text": "Wenn Sie Daten f\u00fcr ein exportiertes Formular haben, k\u00f6nnen Sie diese hier einf\u00fcgen, um sie zu importieren."
+        },
+        "84bb1d63a127250929b813f84311ca47": {
+            "text": "Unbekannter Fehler beim Hinzuf\u00fcgen eines Formulars"
+        },
+        "2e788d0756ca444275e08550a227f147": {
+            "text": "Ein Formular mit diesem Namen existiert bereits, bitte verwende einen anderen Namen."
+        },
+        "b2b34accc58c9043347595b16f0bae75": {
+            "text": "Formular hinzugef\u00fcgt: %s"
+        },
+        "a283cdb84d7743328e7c7a1ceb7a53a2": {
+            "text": "Importierte Formulardaten"
+        },
+        "986ab47b1da18d097d978364a96df090": {
+            "text": "Fehler beim Importieren von Formulardaten"
+        },
+        "367f227a5c2ea70789466fbf741b26cc": {
+            "text": "Gel\u00f6schtes Formular: %s"
+        },
+        "be279becf9a9f5a1873347a505ea0b31": {
+            "text": "Formularwartung beendet"
+        },
+        "48ab538c3e825c2f8a0cc7bb56202409": {
+            "text": "Entferntes Feld: %s"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Hinzugef\u00fcgtes Feld"
+        },
+        "6387dd7d2ae5376b6e96c813affb1399": {
+            "text": "Bitte w\u00e4hle ein Template f\u00fcr gespeicherte Seiten"
+        },
+        "f372eafe72aa2f5a3ecffc8cdc240619": {
+            "text": "Neue Google Sheets-Tabelle hinzugef\u00fcgt:"
+        },
+        "83d02cbda10b5f185f43621dc897aa59": {
+            "text": "Leer %d"
+        },
+        "109a9b43174d13d0fe3e6ecbe9c8d885": {
+            "text": "Name und Typ"
+        },
+        "d37145169aa8fb8e951606047ec92aa1": {
+            "text": "Vermeiden Sie \u00c4nderungen, vor allem wenn bereits Formulareingaben vorhanden sind."
+        },
+        "0a51b9b5d49c1dd6c9c30358800a5404": {
+            "text": "Eine \u00c4nderung des Typs kann zu Problemen mit vorhandenen Formulardaten f\u00fchren."
+        },
+        "8fc57925772033361be4a6e4f8354356": {
+            "text": "Vorhandenes Feld duplizieren"
+        },
+        "a82a2763b2847c5aed630b4bf546bd73": {
+            "text": "Formular als Feld hinzuf\u00fcgen"
+        },
+        "528318ab6b5d8d2d9d2ff92c12ec1f5a": {
+            "text": "Der Name, den FormBuilder verwendet, um Daten f\u00fcr dieses Feld zu referenzieren und zu speichern."
+        },
+        "b8a01a3e0c5037f44cc9c7b8092455dd": {
+            "text": "Darf nur `a-z`, `0-9` oder `_` (Unterstrich) enthalten."
+        },
+        "23b02df1c3d06db8d97776c52628ec0e": {
+            "text": "Die Beschreibung erscheint hier und sieht wie folgt aus."
+        },
+        "d6c10efd8e25d115d7549ba3b1a30613": {
+            "text": "Anwendbar, wenn vom Ausgabe-Framework und der Einbettungsmethode unterst\u00fctzt. Testen Sie immer auf Kompatibilit\u00e4t."
+        },
+        "e25514e0f8704b65e6a840db0383755f": {
+            "text": "Diese Einstellung wird bei \u201ehorizontalen\u201c Formularen nicht verwendet."
+        },
+        "98ae0c3bbab2712ba36a9a88adb18955": {
+            "text": "Auf der Registerkarte \u201eDetails\u201c k\u00f6nnen Sie weitere Felder konfigurieren."
+        },
+        "b1977ebaa4a2bd2d08024575de8f1a4f": {
+            "text": "Unbekannter Eingabefeldtyp: %s"
+        },
+        "adc1ad77b33c4036a3e5fd79746c8d6b": {
+            "text": "Paginierung\/Seitenumbruch"
+        },
+        "3c0016ee9044d522fab3f1a3d8c8215f": {
+            "text": "Feld bearbeiten: %s"
+        },
+        "86f51406639c2d2baeb69e0725436aa0": {
+            "text": "Der Eingabetyp wurde ge\u00e4ndert - bitte \u00fcberpr\u00fcfen Sie die neuen Konfigurationsoptionen und klicken Sie erneut auf Speichern."
+        },
+        "9c1c3bfea5cd785a9ce63ce65fd4e1ff": {
+            "text": "Der Name \u201e%s\u201c ist ein reserviertes Wort."
+        },
+        "25671cfb13b40e3c0079b3ccb89891b9": {
+            "text": "Wurde in \u201e%s\u201c ge\u00e4ndert."
+        },
+        "b40ee6bee9c4dfec7d674317696b34d8": {
+            "text": "Der Name \u201e%s\u201c wird bereits von einem anderen Feld verwendet."
+        },
+        "2737616822db69ae7cfa2039d7cb5f90": {
+            "text": "Installiert auf %s"
+        },
+        "e6e97a63ff0c8d9f90cce3f3573f0fb9": {
+            "text": "Klicken Sie auf Ihre \u201eSetup\u201c-Seite, um mit der Verwendung dieses Moduls zu beginnen."
+        },
+        "3599a2ab40c11595a9d928112290f3ac": {
+            "text": "Erstellen oder bearbeiten Sie Formulare und verwalten Sie eingereichte Eintr\u00e4ge."
+        },
+        "fc277d1feed10a370163f3e80034c0ca": {
+            "text": "E-Mail"
+        },
+        "83a201780b5bcf2405530fd1db5cc0a3": {
+            "text": "Nachricht"
+        },
+        "f04b97b48b1bae00ecd4b4c0a957ebde": {
+            "text": "Importieren"
+        },
+        "4049ff201d685bd7291ee8a07f5318f5": {
+            "text": "Zus\u00e4tzlicher Text, der unterhalb des Eingabefeldes erscheint."
+        },
+        "a7f11200cf0e4e452c92c58c2eaeb42f": {
+            "text": "Hinweise erscheinen hier und sehen so aus."
+        },
+        "52593579281705901eca75fafb44be4c": {
+            "text": "E-Mail an Administrator:innen senden"
+        },
+        "340938f3df3e8b68a10853d0f625ac76": {
+            "text": "Dies sollte eine E-Mail-Adresse sein, die auf diesen Webserver und\/oder ein SMTP-Konto verweist."
+        },
+        "9cf98f351e64154ff01f97e6b5705e98": {
+            "text": "F\u00fcr diese Funktion ist die Installation des [GoogleClientAPI](%1$s)-Moduls erforderlich, zus\u00e4tzlich muss der Scope [%2$s](%3$s) konfiguriert sein."
+        }
+    }
+}

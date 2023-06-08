@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderProcessorSavePage.php",
+    "textdomain": "site--modules--formbuilder--formbuilderprocessorsavepage-php",
+    "translations": {
+        "8299a0679a4bfa03047860628b3f995f": {
+            "text": "Speichern der Seite abgelehnt, da der Name \u201e%s\u201c bereits vergeben ist und eindeutige Namen erforderlich sind."
+        },
+        "00f6398c9c38da5a558b1f3a7fb00614": {
+            "text": "Der Seitenname wurde auf \u201e%s\u201c erh\u00f6ht, da der angeforderte Name bereits in Gebrauch war"
+        }
+    }
+}

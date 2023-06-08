@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderPartialEntriesDatabase.php",
+    "textdomain": "site--modules--formbuilder--formbuilderpartialentriesdatabase-php",
+    "translations": {
+        "88b665c4d429fe3b2c6293f3fcb66621": {
+            "text": "Gew\u00fcnschter Eintrag bereits eingereicht oder nicht gefunden"
+        }
+    }
+}

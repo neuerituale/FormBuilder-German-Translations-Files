@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderInstall.php",
+    "textdomain": "site--modules--formbuilder--formbuilderinstall-php",
+    "translations": {
+        "1626099179b2a50369358a51dfa46465": {
+            "text": "Bitte klicke auf die Schaltfl\u00e4che \u201eSenden\u201c auf diesem Bildschirm, um die Installation des Form Builders abzuschlie\u00dfen."
+        },
+        "90879ae15f6c3009b84335cdd74f3fef": {
+            "text": "Erstellt %1$s - %2$s"
+        },
+        "798bcfdfdf4797ad506b5f231098a107": {
+            "text": "Das Template %1$s kann nicht nach %2$s kopiert werden - bitte kopiere die Datei manuell"
+        },
+        "5a6945f3e4e55c0b8fd9687dec83815a": {
+            "text": "Entfernt %1$s - %2$s"
+        }
+    }
+}
