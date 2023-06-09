@@ -6,7 +6,7 @@
             "text": "Formulare"
         },
         "c3ffe5a9e8dd104bf471beaeefcc9a06": {
-            "text": "Bitte geben Sie einen g\u00fcltigen Lizenzschl\u00fcssel in den Modul-Einstellungen ein"
+            "text": "Bitte gib einen g\u00fcltigen Lizenzschl\u00fcssel in den Modul-Einstellungen ein"
         },
         "b561d42071fccc598d09778d38c97366": {
             "text": "Noch keine Formulare angelegt"
@@ -219,13 +219,13 @@
             "text": "Wenn die Option \u201eDatenbank\u201c verwendet wird, sollte das Kontrollk\u00e4stchen zur Deaktivierung der Sessionverfolgung\/CSRF aktivieren sein (siehe weiter unten)."
         },
         "4307a6550ec55baab879ad3a9bc77a0e": {
-            "text": "Nach wie vielen Tagen der Inaktivit\u00e4t werden Teileintr\u00e4ge aus der Datenbank gel\u00f6scht?"
+            "text": "Unvollst\u00e4ndige Eintr\u00e4ge l\u00f6schen?"
         },
         "945ab6422707e0b73ab3861c8fd3b8cb": {
-            "text": "Unvollst\u00e4ndige Eintr\u00e4ge sind begonnene, aber noch nicht abgeschlossene Eintr\u00e4ge. Sie sollten nach einer gewissen Zeit gel\u00f6scht werden."
+            "text": "Unvollst\u00e4ndige Eintr\u00e4ge sind begonnene, aber noch nicht abgeschlossene Formulareintr\u00e4ge. Sie sollten nach einer gewissen Zeit gel\u00f6scht werden."
         },
         "3e34d60ea65a86f52c2d80a7fa2a2ead": {
-            "text": "Geben Sie einen Wert von 1 oder mehr Tagen an. Wird kein Wert oder 0 angegeben, wird von 14 Tagen ausgegangen."
+            "text": "Gib einen Wert von 1 oder mehr Tagen an. Wird kein Wert oder 0 angegeben, wird von 14 Tagen ausgegangen."
         },
         "58fb1d2f69334c6db931c0c58f1ab216": {
             "text": "Formular-Kn\u00f6pfe"
@@ -240,49 +240,49 @@
             "text": "Sessionverfolgung und CSRF-Schutz deaktivieren?"
         },
         "2fe769a1ab5589a4215f7ca18dea78d6": {
-            "text": "Wenn diese Option aktiviert ist, akzeptiert Form Builder alle Eingaben, anstatt zu versuchen, sie dem Benutzer zuzuordnen, der das Formular aufgerufen hat. Am sichersten ist es, diese Option nicht zu aktivieren (Standardeinstellung), da sie dazu beitragen kann, Spam zu reduzieren und CSRF (Cross Site Request Forgery) zu verhindern. Wenn Sie sich nicht auf Sessions verlassen wollen, Ihre Formularausgabe zwischenspeichern oder \u00dcbermittlungen an ein anderes Verarbeitungsskript senden, sollten Sie dieses Kontrollk\u00e4stchen aktivieren, um die Sessionverfolgung zu deaktivieren."
+            "text": "Falls aktiviert, akzeptiert Form Builder alle Eingaben, anstatt zu versuchen, sie einem Benutzer zuzuordnen. Am sichersten ist es, diese Option nicht zu aktivieren (Standardeinstellung), da sie dazu beitragen kann, Spam zu reduzieren und CSRF (Cross Site Request Forgery) zu verhindern. Wenn keine Sessions verwendet werden, das Formular gecached oder an ein anderes Verarbeitungsscript gesendet wird, sollte diese Option aktiviert werden."
         },
         "ea4fa6da8ae2c578b85898132bac9827": {
-            "text": "Erinnern Sie sich an die Eingabe von Formularfeldwerten bei jeder \u00c4nderung?"
+            "text": "Formulareingaben zwischenspeichern?"
         },
         "6194da508b4d29ccbc456cffe42fb48f": {
-            "text": "Wenn diese Option aktiviert ist, werden die Formularwerte bei jeder Feld\u00e4nderung in einem Cookie gespeichert, auch vor dem Absenden. Das bedeutet, dass der Benutzer das Formular verlassen kann und alles, was er eingegeben hat, noch vorhanden ist, wenn er zur\u00fcckkommt."
+            "text": "Durch Aktivierung dieser Option werden Formulareingaben bei jeder \u00c4nderung in einem Cookie gespeichert, auch vor dem Absenden. Dadurch bleibt der eingegebene Inhalt erhalten, auch wenn der Besucher das Formular verl\u00e4sst und sp\u00e4ter zur\u00fcckkehrt."
         },
         "43a52ed1482909d8a20132b22b7e9c09": {
-            "text": "Diese Einstellung sollte nur bei einseitigen (nicht paginierten) Formularen verwendet werden."
+            "text": "Diese Einstellung sollte nur bei nicht paginierten Formularen verwendet werden."
         },
         "121bb2c5b9c08c85c027094218833d2f": {
-            "text": "Ist dieses Formular ausschlie\u00dflich zur Aufnahme in andere Formulare bestimmt?"
+            "text": "Das Formular ausschlie\u00dflich in anderen Formularen Einbindung."
         },
         "e2deb6d1eeaa8eab64a1cc6a89cbb73a": {
-            "text": "Ein Formular kann ein anderes einschlie\u00dfen, indem ein Feld vom Typ \"Formular\" hinzugef\u00fcgt wird."
+            "text": "Ein Formular kann ein anderes einschlie\u00dfen, indem ein Feld vom Typ \u201eFormular\u201c hinzugef\u00fcgt wird."
         },
         "2e98d76950c9469a1a355ce33e76146a": {
-            "text": "Wenn der einzige Zweck dieses Formulars darin besteht, von einem anderen Formular aus eingebunden zu werden, kann durch Ankreuzen dieses K\u00e4stchens die Effizienz verbessert werden, indem einige unn\u00f6tige Funktionen deaktiviert werden."
+            "text": "Falls der einzige Zweck dieses Formulars darin besteht, von einem anderen Formular aus eingebunden zu werden, kann diese Option die Effizienz verbessern, indem einige unn\u00f6tige Funktionen deaktiviert werden."
         },
         "2c49bfce3d2304303755d16cadaca142": {
-            "text": "Wenn Sie diese Option verwenden, sollten Sie auch das Formular deaktivieren (siehe unten)."
+            "text": "Bei Verwendung dieser Option empfiehlt es sich auch, die Formularausgabe zu deaktivieren (siehe unten)."
         },
         "7c427b59a636ef3aa9758996ceb17926": {
-            "text": "Deaktivieren Sie die Darstellung und Verarbeitung dieses Formulars?"
+            "text": "Deaktivieren der Formularausgabe"
         },
         "6f7c7e286b44b6d9e106e1530e7f6450": {
-            "text": "Ein deaktiviertes Formular wird nicht gerendert oder nimmt keine neuen Eintr\u00e4ge an, es sei denn, der Benutzer hat Zugriff auf die Bearbeitung des Formulars ODER es wird von einem anderen Formular \u00fcbernommen."
+            "text": "Eine deaktivierte Formularausgabe akzeptiert keine neuen Eintr\u00e4ge, es sei denn, der Benutzer hat Zugriff auf die Bearbeitung des Formulars ODER es wird von einem anderen Formular eingebunden."
         },
         "c57dd3bb0c047f5a5a2a93ff53f9b711": {
-            "text": "Deaktivierte Formulare werden auch nicht in der Dropdown-Navigation angezeigt, wohl aber auf der Hauptseite der Formularliste."
+            "text": "Sie werden nicht in der Navigation angezeigt, sind jedoch auf der Hauptseite der Formularliste sichtbar."
         },
         "6fe99b8928e4d8dd9e1853a7de932717": {
-            "text": "Deaktivieren Sie die Verwendung von modalen Fenstern in FormBuilder admin?"
+            "text": "Deaktivieren von modalen Fenstern in FormBuilder admin?"
         },
         "5a417dcc486d62864ad9a806d922531c": {
-            "text": "Wenn aktiviert verzichtet der FormBuilder auf modale Fenster beim Bearbeiten von Feldern und an anderen Stellen."
+            "text": "Wenn aktiviert, werden keine modalen Fenster im FormBuilder beim Bearbeiten von Feldern angezeigt."
         },
         "fa406a97373f01032b90ad2e4eb072a5": {
             "text": "Formular l\u00f6schen"
         },
         "4f8dd5cbb7e215f548c6112b31c109e0": {
-            "text": "Achtung: Dadurch werden das Formular und alle Ergebnisse gel\u00f6scht."
+            "text": "Achtung: Dadurch werden das Formular und alle Eintr\u00e4ge gel\u00f6scht."
         },
         "b397fad778281f68b2fc38ffba10f97a": {
             "text": "Bitte konfiguriere eine oder mehrere der unten aufgef\u00fchrten Spamschutzma\u00dfnahmen."
@@ -725,9 +725,6 @@
         "7a1920d61156abc05a60135aefe8bc67": {
             "text": "Standard"
         },
-        "972e73b7a882d0802a4e3a16946a2f94": {
-            "text": "Grundlegend"
-        },
         "e28e1e933d7a29aba134a1f0245b37a9": {
             "text": "Dies wirkt sich auf das Erscheinungsbild von jQuery UI-Widgets wie AsmSelect und Datum\/Zeit-Datumsauswahlen aus. Wenn keine jQuery UI-Widgets verwendet werden, wird es nicht geladen."
         },
@@ -963,7 +960,7 @@
             "text": "Name und Typ"
         },
         "d37145169aa8fb8e951606047ec92aa1": {
-            "text": "Vermeiden Sie \u00c4nderungen, vor allem wenn bereits Formulareingaben vorhanden sind."
+            "text": "Vermeide \u00c4nderungen, vor allem wenn bereits Formulareingaben vorhanden sind."
         },
         "0a51b9b5d49c1dd6c9c30358800a5404": {
             "text": "Eine \u00c4nderung des Typs kann zu Problemen mit vorhandenen Formulardaten f\u00fchren."

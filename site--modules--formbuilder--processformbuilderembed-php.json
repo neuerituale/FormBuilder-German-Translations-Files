@@ -3,7 +3,7 @@
     "textdomain": "site--modules--formbuilder--processformbuilderembed-php",
     "translations": {
         "76d471da25c1985c3f6afda784b48aef": {
-            "text": "Wichtig: Vermeide, wenn m\u00f6glich die Zwischenspeicherung mit z. B. ProCache oder Template-Cache. Wenn die Ausgabe des Formulars (oder der Seite, auf der es erscheint) zwischengespeichert werden muss, aktiviere auf der Registerkarte \u201eEinstellungen\u201c das Kontrollk\u00e4stchen \u201eSessionverfolgung und CSRF-Schutz deaktivieren?\u201c"
+            "text": "Wichtig: Vermeide, wenn m\u00f6glich das Zwischenspeichern mit z. B. ProCache oder Template-Cache. Wenn die Ausgabe des Formulars (oder der Seite, auf der es erscheint) zwischengespeichert werden muss, aktiviere auf der Registerkarte \u201eEinstellungen\u201c das Kontrollk\u00e4stchen \u201eSessionverfolgung und CSRF-Schutz deaktivieren?\u201c"
         },
         "d4661cd7ff3d8cbd671dada7101f9ba0": {
             "text": "Wichtige Hinweise"
@@ -51,7 +51,7 @@
             "text": "Diese Einbettungsoption erfordert mindestens ein aktiviertes Einbettungsfeld, das in den Einstellungen des Form Builder-Moduls konfiguriert werden kann."
         },
         "77cf778e6b38d7dc52b78d965504acf9": {
-            "text": "Option B:  Einbetten in Template"
+            "text": "Option B:  Einbetten in Template (iFrame)"
         },
         "214e90e72d84551a0c2a57c4a561d5f3": {
             "text": "F\u00fcge den Einbettungscode in das Template ein."
@@ -66,55 +66,55 @@
             "text": "Kopiere den folgenden Code in die Template-Datei(en) wo das Formular ausgegeben werden soll:"
         },
         "4fb444ad8c9e1e02cefe4baf15e43b4e": {
-            "text": "Option C: Bevorzugtes Embed"
+            "text": "Option C: Einbetten in Template (empfohlen)"
         },
         "8473fa494e094775e4025933225c6660": {
-            "text": "Rendern Sie das Formularmarkup direkt aus Ihrer Vorlagendatei (kein Iframe)."
+            "text": "Rendern des Formulars direkt aus der Template-Datei (kein Iframe)."
         },
         "f2f8dc604b5243dda3ce124dc774c0ae": {
-            "text": "Diese Option wird f\u00fcr die meisten F\u00e4lle empfohlen (wenn\/wo m\u00f6glich) und bietet die beste Balance zwischen Flexibilit\u00e4t, Anpassung und Funktionen. Sie ist mit allen FormBuilder-Aktionen und -Plugins kompatibel."
+            "text": "Diese Option wird f\u00fcr die meisten F\u00e4lle empfohlen, da sie die beste Balance zwischen Flexibilit\u00e4t, Anpassung und Funktionen bietet. Sie ist mit allen FormBuilder-Aktionen und -Plugins kompatibel."
         },
         "f2775cda06a77efb69765fccd3e96779": {
-            "text": "Es rendert das Formular-Markup direkt auf der Seite, was bedeutet, dass die CSS-Stile Ihrer Website das Erscheinungsbild beeinflussen k\u00f6nnen (was erw\u00fcnscht sein kann, aber auch nicht)."
+            "text": "Das Markup wird direkt in der Seite ausgegeben, daher k\u00f6nnen die CSS-Stile Ihrer Website das Erscheinungsbild beeinflussen."
         },
         "d66f603867b8ab7bfbd3b6435ffa44fd": {
-            "text": "Wenn Sie bereits eines der kompatiblen CSS-Frameworks (Uikit, Bootstrap usw.) verwenden, ist die Einbettungsmethode C m\u00f6glicherweise ideal, da das Markup f\u00fcr Ihr Framework vorbereitet ist."
+            "text": "Wenn bereits ein kompatibles CSS-Framework wie Uikit oder Bootstrap verwendet wird, ist die Einbettungsmethode C m\u00f6glicherweise ideal, da das Markup f\u00fcr das Framework vorbereitet ist."
         },
         "b2b5c3eac75aa3071520ef4eb84c7def": {
-            "text": "Wenn Sie kein CSS-Framework f\u00fcr Ihre Website verwenden, w\u00e4hlen Sie am besten \"Basic\" als FormBuilder-Framework (auf der Registerkarte \"Output\"). Beachten Sie, dass Sie m\u00f6glicherweise mit Ihrem CSS-Stylesheet arbeiten m\u00fcssen, um das Aussehen des Formulars zu optimieren."
+            "text": "Wenn kein CSS-Framework verwendet wird, w\u00e4hle \u201eStandard\u201c als Ausgabe-Framework (im Tab \u201eAusgabe\u201c). Beachte, dass es notwendig sein kann, das Aussehen des Formulars mit weiteren CSS-Stilen zu optimieren."
         },
         "bcefb15c742e1a034ee536a780108303": {
-            "text": "Kopieren Sie den folgenden Code und f\u00fcgen Sie ihn an den entsprechenden Stellen in Ihre Vorlagendatei(en) ein, und passen Sie ihn bei Bedarf an."
+            "text": "Kopiere den folgenden Code und f\u00fcge ihn in die Template-Datei an der entsprechenden Stelle ein. Passe ihn bei Bedarf an."
         },
         "a5f7bf3fe4046bd0ba95ab7cf9ed8856": {
-            "text": "Platzieren Sie das Folgende irgendwo, bevor die Ausgabe beginnt (z. B. in einer _init.php-Datei oder am Anfang einer Vorlagendatei)."
+            "text": "F\u00fcge den Code vor Beginn der Ausgabe z. B. in einer _init.php-Datei oder am Anfang einer Template-Datei ein."
         },
         "918c4d7bdbf0b5e7eae66fbac602241b": {
-            "text": "Platzieren Sie Folgendes in Ihrem Dokument <head><\/head>, wo Sie CSS-Dateien (Stile) und JS-Dateien (Skripte) ausgeben."
+            "text": "Platziere den Code innerhalb des <head><\/head>-Bereichs, dort wo du auch CSS- und JS-Dateien ausgibst."
         },
         "fb3fc0f16b6048d5eedf00d08572adaf": {
-            "text": "Sie k\u00f6nnen diese beiden Zeilen je nach Bedarf aufteilen oder mit der oben genannten Zeile kombinieren."
+            "text": "Diese beiden Zeilen k\u00f6nnen je nach Bedarf aufgeteilt oder mit der oben genannten Zeile kombiniert werden."
         },
         "01001be75f2a2961960448a277aeb868": {
-            "text": "Platzieren Sie das Folgende an einer sp\u00e4teren Stelle in Ihrem Dokument <body>, wo Ihr Formular gerendert werden soll:"
+            "text": "Platziere den Code an einer Stelle im Dokument <body>, wo das Formular gerendert werden soll:"
         },
         "2d4c9e9c90492b5c612dcb6092f1e1db": {
-            "text": "Option D: Benutzerdefiniertes Markup einbetten"
+            "text": "Option D: Eigenes Markup"
         },
         "27f74f78aa391a8f1079059edbb04af4": {
-            "text": "Mit dieser Option haben Sie die volle Kontrolle \u00fcber das Markup in Ihrem Formular und es wird direkt in Ihre Vorlagendatei(en) ausgegeben."
+            "text": "Mit dieser Option kann das gesamte Markup des Formulars angepasst werden, indem es direkt in die Template-Datei geschrieben wird."
         },
         "54bba052bfd381ff5cc3f1fc93acfc0c": {
-            "text": "Beachten Sie jedoch, dass Sie dadurch m\u00f6glicherweise in der Verwendung von Aktionen\/Plugins eingeschr\u00e4nkt werden und mehr Arbeit haben, wenn Sie in Zukunft \u00c4nderungen an dem Formular vornehmen m\u00fcssen."
+            "text": "Beachte jedoch m\u00f6gliche Einschr\u00e4nkungen bei Aktionen und Plugins sowie den zus\u00e4tzlichen Aufwand f\u00fcr zuk\u00fcnftige \u00c4nderungen am Formular."
         },
         "6185c9ce51e6e17f6344b202f5e39df6": {
-            "text": "Es ist ratsam, diese Option erst zu verwenden, wenn Ihr Formular \"endg\u00fcltig\" ist, da Sie alle weiteren \u00c4nderungen an der Formularauszeichnung manuell vornehmen m\u00fcssen, nachdem Sie diese Option verwendet haben."
+            "text": "Verwende diese Option erst, wenn das Formular \u201efertig\u201c ist, da nach einer \u00c4nderung manuelle Anpassungen am Markup erforderlich sind."
         },
         "9203aaba861915344955cd39ccb3ba08": {
-            "text": "Klicken Sie hier, um eine Kopie der Formularauszeichnung zu exportieren."
+            "text": "Klicke hier, um das Markup des Formulars zu erstellen."
         },
         "eb944faee6acea3ce2706e2b4c71d934": {
-            "text": "Es wird eine Kopie der Formularauszeichnung in diese Datei exportiert:"
+            "text": "Es wird in die folgende Datei geschrieben:"
         },
         "c327370eb2e34ea05e4c28ba81353198": {
             "text": "Kopieren Sie die oben genannte Datei in diese Datei:"
