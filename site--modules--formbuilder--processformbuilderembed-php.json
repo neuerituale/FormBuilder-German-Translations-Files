@@ -102,7 +102,7 @@
             "text": "Option D: Eigenes Markup"
         },
         "27f74f78aa391a8f1079059edbb04af4": {
-            "text": "Mit dieser Option kann das gesamte Markup des Formulars angepasst werden, indem es direkt in die Template-Datei geschrieben wird."
+            "text": "Mit dieser Option kann das gesamte Markup des Formulars angepasst werden, daf\u00fcr wird es direkt in eine Template-Datei geschrieben."
         },
         "54bba052bfd381ff5cc3f1fc93acfc0c": {
             "text": "Beachte jedoch m\u00f6gliche Einschr\u00e4nkungen bei Aktionen und Plugins sowie den zus\u00e4tzlichen Aufwand f\u00fcr zuk\u00fcnftige \u00c4nderungen am Formular."
@@ -117,19 +117,19 @@
             "text": "Es wird in die folgende Datei geschrieben:"
         },
         "c327370eb2e34ea05e4c28ba81353198": {
-            "text": "Kopieren Sie die oben genannte Datei in diese Datei:"
+            "text": "Verschiebe oder kopiere die Datei nach:"
         },
         "f565961e6f0e8e91a6f51750dff6061d": {
-            "text": "Bearbeiten Sie die oben kopierte Datei und folgen Sie den Anweisungen in den Kommentaren der Datei."
+            "text": "Bearbeite die kopierte Datei gem\u00e4\u00df den Anweisungen in den Kommentaren."
         },
         "d0f1d36da213f4df8bd401cfb90b619a": {
-            "text": "F\u00fcgen Sie Folgendes in eine Vorlagendatei ein, in der Sie das Formular ausgeben m\u00f6chten:"
+            "text": "F\u00fcge Folgendes in die Template-Datei ein, in der das Formular ausgeben werden soll:"
         },
         "6e3eb57296a5ba9a87c3ca387c6e2972": {
-            "text": "Hinweis: In Ihrer ProcessWire-Installation ist eine Sicherheitsfunktion namens Session Fingerprint aktiviert."
+            "text": "Hinweis: In der ProcessWire-Installation ist die Sicherheitsfunktion \u201eSession Fingerprint\u201c aktiviert."
         },
         "bb01eb3ecb259f13a7953f5a1ac269b6": {
-            "text": "Wenn Benutzer Ihres Formulars IP-Adressen haben, die sich \u00e4ndern k\u00f6nnen, w\u00e4hrend sie ein Formular ausf\u00fcllen, sollten Sie das Session-Tracking\/CSRF-Schutz f\u00fcr dieses Formular deaktivieren (siehe Registerkarte Einstellungen) oder eine andere %s-Einstellung in der Datei \/site\/config.php hinzuf\u00fcgen."
+            "text": "Wenn sich die IP-Adresse des Benutzers w\u00e4hrend des Ausf\u00fcllens \u00e4ndern k\u00f6nnte, deaktiviere das Session-Tracking und den CSRF-Schutz f\u00fcr das Formular oder passen die %s-Einstellung in der Datei \/site\/config.php an."
         },
         "a08e1bacb7f7ea108e8bbdd85b92e428": {
             "text": "Dies ist die einfachste Methode, bei der nichts weiter getan werden muss, als eine Seite zu bearbeiten und den folgenden Tag an der gew\u00fcnschten Stelle einzuf\u00fcgen (%s)."
