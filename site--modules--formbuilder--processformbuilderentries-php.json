@@ -89,9 +89,6 @@
         "fc6f398132b3a3f3a0cd872771c9ca4f": {
             "text": "Eintr\u00e4ge exportieren"
         },
-        "d9d6cc253fa8b11774e2e2e1686a39b5": {
-            "text": "Alle Eintr\u00e4ge und Spalten exportieren"
-        },
         "3629d01920a945712d30867ceba48ef3": {
             "text": "CSV exportieren"
         },
@@ -256,6 +253,15 @@
         },
         "49d62dc78d871d12eaf2a4c8b0efa88e": {
             "text": "%d Eintr\u00e4ge"
+        },
+        "5b8a230dccc309175d71d7bfc4a93acc": {
+            "text": "(noch nicht gesendet)"
+        },
+        "e7ab25cc71c6d2d89f54d629821751b1": {
+            "text": "Alle oben genannten Punkte"
+        },
+        "ddc5de99dd81136b677c1c4d21475de1": {
+            "text": "Alle Zeilen und Spalten exportieren (ausgenommen Spam und Teil-Eintr\u00e4ge)"
         }
     }
 }

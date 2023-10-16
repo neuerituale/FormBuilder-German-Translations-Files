@@ -1042,6 +1042,24 @@
         },
         "9cf98f351e64154ff01f97e6b5705e98": {
             "text": "F\u00fcr diese Funktion ist die Installation des [GoogleClientAPI](%1$s)-Moduls erforderlich, zus\u00e4tzlich muss der Scope [%2$s](%3$s) konfiguriert sein."
+        },
+        "6ffd0bc3a90e57c4026c3c7b00a56205": {
+            "text": "Um mehrere Antworten f\u00fcr ein einziges Feld zu akzeptieren, trenne die Antworten mit einer Pipe `|`, z.B. `color=red|blue|green`."
+        },
+        "53f1ca1640e224702e3662060b5d80ed": {
+            "text": "Auto-Responder"
+        },
+        "f25ddfa6d7e22893c7aab278f5f779b4": {
+            "text": "Ausgabe Framework"
+        },
+        "201aeaf01e404114bbf1da7e4e1b35ae": {
+            "text": "Vorhandenes Formular duplizieren"
+        },
+        "51c54f03f8bb6ebfbca5dc706e5d7468": {
+            "text": "W\u00e4hle das zu duplizierende Formular aus."
+        },
+        "c2e69274f94e3ebde15d2d26c7b4c379": {
+            "text": "Keine Erlaubnis zum duplizieren dieses Formulars."
         }
     }
 }

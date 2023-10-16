@@ -71,14 +71,17 @@
         "41f582c676a068cd0c288b7be7ca83d0": {
             "text": "Gr\u00f6\u00dfe des Senden-Buttons"
         },
-        "960b44c579bc2f6818d2daaf9e4c16f0": {
-            "text": "Normal"
-        },
         "b61d6d2952aa60f97b1947fe693c895c": {
             "text": "Senden-Button in voller Breite"
         },
         "3eb4ff7452edbaf86f11b2490a618c99": {
             "text": "Fette Formularbeschriftungen verwenden?"
+        },
+        "074de7e7c226d5c60f8af14c20725352": {
+            "text": "Prim\u00e4r"
+        },
+        "0c7d6cf19426e01dcfa32434828ed266": {
+            "text": "Sekund\u00e4r"
         }
     }
 }

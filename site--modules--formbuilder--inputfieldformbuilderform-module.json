@@ -1,5 +1,33 @@
 {
     "file": "site\/modules\/FormBuilder\/InputfieldFormBuilderForm.module",
     "textdomain": "site--modules--formbuilder--inputfieldformbuilderform-module",
-    "translations": []
+    "translations": {
+        "c692d12cb09166de29a48d849aa71c4a": {
+            "text": "Formular als Feld hinzuf\u00fcgen"
+        },
+        "226ce5e95bf4674ef483e16b478a7d3e": {
+            "text": "Beachte, dass den Namen aller Felder im Formular der Name dieses Feldes vorangestellt wird."
+        },
+        "f3191208476e6dcf5334d1de38f0a82e": {
+            "text": "Es k\u00f6nnen beliebig viele Kopien desselben Formulars erstellt werden."
+        },
+        "c6568e77f61109390e82d035aaacaef0": {
+            "text": "\u00dcberschrift"
+        },
+        "1ca83672206c28e209344caf672a09eb": {
+            "text": "Labeltyp"
+        },
+        "9ae278da993b8c4e2a113a63a105cb23": {
+            "text": "Das Label dieses Feldes nicht oberhalb des Formulars anzeigen"
+        },
+        "c4dfddc347167df7708758129fea7a22": {
+            "text": "Als Fieldset Anzeigen"
+        },
+        "81417763e49898e0f9650c28a5b4b347": {
+            "text": "Label verbergen"
+        },
+        "b5bdf31bdec5ac45c29323b758e90375": {
+            "text": "Standard-Label"
+        }
+    }
 }
